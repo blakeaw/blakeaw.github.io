@@ -90,3 +90,8 @@ yelp:
   name: "Yelp"
   baseURL: "https://{{ site.author.yelp }}.yelp.com"
   icon: "fa-yelp"
+
+researchgate:
+    name: "ResearchGate"
+    baseURL: "https://www.researchgate.net/profile/"
+    icon: "fa-flask"
