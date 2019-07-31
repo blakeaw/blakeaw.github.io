@@ -1,16 +1,11 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: A little bit about me.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hi! I’m the Blake behind this site. I’m an experienced researcher with experience in molecular simulation and systems biology. I’ve also have experience developing scientific software (Python, C/C++, Bash) for use in computational research. If you want learn more about my academic history then check out my [CV](https://drive.google.com/file/d/1ho-T9pX_E52hr6Z-xWw8n2HFYGoYO9we/view?usp=sharing).
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Other Interests
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I'm an avid tea drinker with a dedicated [tea blog](blakesteajournal.blog) where I post tasting notes and other tea infused content, as well as an accompanying [Zazzle store](https://www.zazzle.com/store/blakesteajournalblog) where I sell my tea themed designs.
