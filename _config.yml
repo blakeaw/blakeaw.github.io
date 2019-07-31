@@ -4,7 +4,7 @@
 title: Blake A. Wilson
 
 # Short description of your site
-description: My personal website and tech blog
+description: My personal website and blog
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -21,6 +21,7 @@ description: My personal website and tech blog
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Blog: "blog"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
@@ -60,7 +61,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Blake A. Wilson
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -68,12 +69,13 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
+  github: blakeaw
+  linkedin: blakewilson3
+  researchgate: Blake_Wilson3
   email: "blakeaw1102@gmail.com"
 #  facebook: deanattali
-  github: blakeaw
 #  twitter: daattali
 #  reddit: yourname
-  linkedin: blakewilson3
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -158,6 +160,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
+paginate_path: "/blog/page:num/"
 
 kramdown:
   input: GFM
