@@ -7,21 +7,15 @@ subtitle: My (amateur) work in logo design and creation.
 <table>
 <caption> Thumbnails of each logo. Click the thumbnail to look at and read about the logo in more detail. </caption>
 <tr>
- <td> [<p align="center"> <img width="75" height="75" src="https://raw.githubusercontent.com/LoLab-VU/PyBILT/master/_images/PyBILT_logo.png">
-</p> ](#pybilt) </td>  
-<td> [<p align="left">  <img width="75" height="75" src="https://raw.githubusercontent.com/LoLab-VU/Gleipnir/master/images/gleipnir_logo_2.png"> </p>](#gleipnir) </td>
-<td> [<p align="left">
-  <img width="75" height="75" src="https://raw.githubusercontent.com/blakeaw/GAlibrate/master/images/GAlibrate_logo.png">
-</p>](#galibrate)
+ <td> [<p align="center"><img width="75" height="75" src="https://raw.githubusercontent.com/LoLab-VU/PyBILT/master/_images/PyBILT_logo.png"></p> ](#pybilt) </td>  
+<td> [<p align="left"> <img width="75" height="75" src="https://raw.githubusercontent.com/LoLab-VU/Gleipnir/master/images/gleipnir_logo_2.png"></p>](#gleipnir) </td>
+<td> [<p align="left"> <img width="75" height="75" src="https://raw.githubusercontent.com/blakeaw/GAlibrate/master/images/GAlibrate_logo.png"></p>](#galibrate)
 </td>
 </tr>
 <tr>
-<td> [<p align="center"> <img width="75" height="75" src="https://drive.google.com/uc?id=1mQBnlbXzFkAZcTzLg12E7iFz6xhbUYFz">
-</p> ](#simplepso) </td>
-<td> [<p align="center"> <img width="75" height="75" src="https://drive.google.com/uc?id=1iTJ8OHkLYioxRmiBCZ0XTk4KUAYi_vLu">
-</p> ](#hypbuilder) </td>
-<td> [<p align="center"> <img width="75" height="75" src="https://drive.google.com/uc?id=1Krx_iPvQQZdZ1ZWfJQg27Xze58bkKbhu">
-</p> ](#magine) </td>
+<td> [<p align="center"><img width="75" height="75" src="https://drive.google.com/uc?id=1mQBnlbXzFkAZcTzLg12E7iFz6xhbUYFz"></p> ](#simplepso) </td>
+<td> [<p align="center"><img width="75" height="75" src="https://drive.google.com/uc?id=1iTJ8OHkLYioxRmiBCZ0XTk4KUAYi_vLu"></p> ](#hypbuilder) </td>
+<td> [<p align="center"> <img width="75" height="75" src="https://drive.google.com/uc?id=1Krx_iPvQQZdZ1ZWfJQg27Xze58bkKbhu"></p> ](#magine) </td>
 </tr>
 </table>
 
@@ -29,9 +23,7 @@ subtitle: My (amateur) work in logo design and creation.
 
 #### PyBILT logo<a name="pybilt"></a>
 
-[<p align="center">
-  <img width="200" height="200" src="https://raw.githubusercontent.com/LoLab-VU/PyBILT/master/_images/PyBILT_logo.png">
-</p>](https://github.com/LoLab-VU/PyBILT)
+[<p align="center"><img width="200" height="200" src="https://raw.githubusercontent.com/LoLab-VU/PyBILT/master/_images/PyBILT_logo.png"></p>](https://github.com/LoLab-VU/PyBILT)
 
 * **Designed For:** [PyBILT software](https://github.com/LoLab-VU/PyBILT)
 * **Status:** In use
@@ -41,21 +33,17 @@ The logo consists of three lipid bilayer sketches with corresponding data plot s
 
 #### Gleipnir logo<a name="gleipnir"></a>
 
-[<p align="center">
-  <img width="200" height="200" src="https://raw.githubusercontent.com/LoLab-VU/Gleipnir/master/images/gleipnir_logo_2.png">
-</p>](https://github.com/LoLab-VU/Gleipnir)
+[<p align="center"><img width="100" height="100" src="https://raw.githubusercontent.com/LoLab-VU/Gleipnir/master/images/gleipnir_logo_2.png"></p>](https://github.com/LoLab-VU/Gleipnir)
 
 * **Designed For:** [Gleipnir software](https://github.com/LoLab-VU/Gleipnir)
 * **Status:** In use
 
 ###### About:
- The name 'Gleipnir' used for this software was taken from Norse mythology. In that, Gleipnir is a magical rope/chain that was forged by the dwarves and used to bind the mighty wolf Fenris (sometimes Fenrir). The logo highlights this mythological connection by overlaying a wolf-head icon over that of a rope. The font of the logo text was chosen to further a sort of heavy metal vibe. This relatively simple logo design was created using the logo editor at https://www.freelogodesign.org/  
+ The name Gleipnir used for this software was taken from Norse mythology. In that, Gleipnir is a magical rope/chain that was forged by the dwarves and used to bind the mighty wolf Fenris (sometimes Fenrir). The logo highlights this mythological connection by overlaying a wolf-head icon over that of a rope. The font of the logo text was chosen to further a sort of heavy metal vibe. This relatively simple logo design was created using the logo editor at [https://www.freelogodesign.org/](https://www.freelogodesign.org/)
 
  #### GAlibrate logo<a name="galibrate"></a>
 
- [<p align="center">
-   <img width="200" height="200" src="https://raw.githubusercontent.com/blakeaw/GAlibrate/master/images/GAlibrate_logo.png">
- </p>](https://github.com/blakeaw/GAlibrate)
+ [<p align="center"><img width="200" height="200" src="https://raw.githubusercontent.com/blakeaw/GAlibrate/master/images/GAlibrate_logo.png"></p>](https://github.com/blakeaw/GAlibrate)
 
  * **Designed For:** [GAlibrate software](https://github.com/blakeaw/GAlibrate)
  * **Status:** In use
@@ -65,8 +53,7 @@ The logo consists of three lipid bilayer sketches with corresponding data plot s
 
  #### simplePSO logo<a name="simplepso"></a>
 
- [<p align="center"> <img width="200" height="200" src="https://drive.google.com/uc?id=1mQBnlbXzFkAZcTzLg12E7iFz6xhbUYFz">
- </p> ](https://github.com/LoLab-VU/ParticleSwarmOptimization)
+ [<p align="center"> <img width="200" height="200" src="https://drive.google.com/uc?id=1mQBnlbXzFkAZcTzLg12E7iFz6xhbUYFz"></p> ](https://github.com/LoLab-VU/ParticleSwarmOptimization)
 
  * **Designed For:** [simplePSO software](https://github.com/LoLab-VU/ParticleSwarmOptimization)
  * **Status:** Not yet in use
@@ -76,8 +63,7 @@ The logo consists of three lipid bilayer sketches with corresponding data plot s
 
  #### HypBuilder logo<a name="hypbuilder"></a>
 
- [<p align="center"> <img width="200" height="200" src="https://drive.google.com/uc?id=1iTJ8OHkLYioxRmiBCZ0XTk4KUAYi_vLu">
- </p> ](https://github.com/LoLab-VU/HypBuilder)
+ [<p align="center"> <img width="200" height="200" src="https://drive.google.com/uc?id=1iTJ8OHkLYioxRmiBCZ0XTk4KUAYi_vLu"></p> ](https://github.com/LoLab-VU/HypBuilder)
 
  * **Designed For:** [HypBuilder software](https://github.com/LoLab-VU/HypBuilder)
  * **Status:** Not yet in use
@@ -87,8 +73,7 @@ The logo consists of three lipid bilayer sketches with corresponding data plot s
 
  #### MAGINE logo<a name="hypbuilder"></a>
 
- [<p align="center"> <img width="300" height="300" src="https://drive.google.com/uc?id=1Krx_iPvQQZdZ1ZWfJQg27Xze58bkKbhu">
- </p> ](https://github.com/LoLab-VU/MAGINE)
+ [<p align="center"> <img width="300" height="300" src="https://drive.google.com/uc?id=1Krx_iPvQQZdZ1ZWfJQg27Xze58bkKbhu"></p> ](https://github.com/LoLab-VU/MAGINE)
 
  * **Designed For:** [MAGINE software](https://github.com/LoLab-VU/MAGINE)
  * **Status:** Not yet in use
