@@ -6,7 +6,7 @@ subtitle: A selection of software contributions.
 
 #### PyBILT
 
-[<p align="left"><img width="100" height="100" src="https://raw.githubusercontent.com/LoLab-VU/PyBILT/master/_images/PyBILT_logo.png"></p>](https://github.com/LoLab-VU/PyBILT)
+[<img width="100" height="100" src="https://raw.githubusercontent.com/LoLab-VU/PyBILT/master/_images/PyBILT_logo.png">](https://github.com/LoLab-VU/PyBILT)
 
 * **Type:** Scientific/Research Software
 * **Language:** Python
@@ -18,7 +18,7 @@ PyBILT (Python based lipid BILayer molecular simulation analysis Toolkit) is a P
 
 #### Gleipnir
 
-[<p align="left"><img width="100" height="100" src="https://raw.githubusercontent.com/LoLab-VU/Gleipnir/master/images/gleipnir_logo_2.png"></p>](https://github.com/LoLab-VU/Gleipnir)
+[<img width="100" height="100" src="https://raw.githubusercontent.com/LoLab-VU/Gleipnir/master/images/gleipnir_logo_2.png">](https://github.com/LoLab-VU/Gleipnir)
 
 * **Type:** Scientific/Research Software
 * **Language:** Python
@@ -28,7 +28,7 @@ Gleipnir is a python toolkit that provides an easy to use interface for Bayesian
 
 #### GAlibrate
 
-[<p align="left"><img width="100" height="100" src="https://raw.githubusercontent.com/blakeaw/GAlibrate/master/images/GAlibrate_logo.png"></p>](https://github.com/bblakeaw/GAlibrate)
+[<img width="100" height="100" src="https://raw.githubusercontent.com/blakeaw/GAlibrate/master/images/GAlibrate_logo.png">](https://github.com/bblakeaw/GAlibrate)
 
 * **Type:** Scientific/Research Software
 * **Language:** Python
