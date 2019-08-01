@@ -7,15 +7,15 @@ subtitle: My (amateur) work in logo design and creation.
 <table>
 <caption> Thumbnails of each logo. Click the thumbnail to look at and read about the logo in more detail. </caption>
 <tr>
- <td> [<img width="75" height="75" src="https://raw.githubusercontent.com/LoLab-VU/PyBILT/master/_images/PyBILT_logo.png">](#pybilt) </td>  
-<td> [<img width="75" height="75" src="https://raw.githubusercontent.com/LoLab-VU/Gleipnir/master/images/gleipnir_logo_2.png">](#gleipnir) </td>
-<td> [<img width="75" height="75" src="https://raw.githubusercontent.com/blakeaw/GAlibrate/master/images/GAlibrate_logo.png">](#galibrate)
+ <td> <a href="#pybilt"><img width="75" height="75" src="https://raw.githubusercontent.com/LoLab-VU/PyBILT/master/_images/PyBILT_logo.png"></a> </td>  
+<td> <a href="#gleipnir"><img width="75" height="75" src="https://raw.githubusercontent.com/LoLab-VU/Gleipnir/master/images/gleipnir_logo_2.png"></a> </td>
+<td> <a href="#galibrate"><img width="75" height="75" src="https://raw.githubusercontent.com/blakeaw/GAlibrate/master/images/GAlibrate_logo.png"></a>
 </td>
 </tr>
 <tr>
-<td> [<img width="75" height="75" src="https://drive.google.com/uc?id=1mQBnlbXzFkAZcTzLg12E7iFz6xhbUYFz"> ](#simplepso) </td>
-<td> [<img width="75" height="75" src="https://drive.google.com/uc?id=1iTJ8OHkLYioxRmiBCZ0XTk4KUAYi_vLu"> ](#hypbuilder) </td>
-<td> [<img width="75" height="75" src="https://drive.google.com/uc?id=1Krx_iPvQQZdZ1ZWfJQg27Xze58bkKbhu"> ](#magine) </td>
+<td> <a href="#simplepso"><img width="75" height="75" src="https://drive.google.com/uc?id=1mQBnlbXzFkAZcTzLg12E7iFz6xhbUYFz"></a> </td>
+<td> <a href="#hypbuilder"><img width="75" height="75" src="https://drive.google.com/uc?id=1iTJ8OHkLYioxRmiBCZ0XTk4KUAYi_vLu"></a> </td>
+<td> <a href="#magine"><img width="75" height="75" src="https://drive.google.com/uc?id=1Krx_iPvQQZdZ1ZWfJQg27Xze58bkKbhu"></a> </td>
 </tr>
 </table>
 
