@@ -71,7 +71,7 @@ The logo consists of three lipid bilayer sketches with corresponding data plot s
 ##### About:
  The HypBuilder software allows users to encode variant hypotheses for systems biology models, and the software constructs PySB models for each of the hypotheses. The logo embodies this with a hammer acting on a network which represent the building of a hypothetical model. The design includes both the software name and a tagline. This logo design was created using the online version of the digital sketchpad, aptly named Sketchpad, at https://sketch.io/
 
-#### MAGINE logo<a name="hypbuilder"></a>
+#### MAGINE logo<a name="magine"></a>
 
  [<img width="300" height="300" src="https://drive.google.com/uc?id=1Krx_iPvQQZdZ1ZWfJQg27Xze58bkKbhu"> ](https://github.com/LoLab-VU/MAGINE)
 
