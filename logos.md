@@ -59,7 +59,7 @@ The logo consists of three lipid bilayer sketches with corresponding data plot s
  * **Status:** Not yet in use
 
 ##### About:
- The simplePSO software implements particle swarm optimization. The logo logo embodies this with a sketch of a mountain-like 'cost' landscape and a swarm cloud that is swarming to the peak (i.e., the optimum) of the landscape. The design includes both the software name and z tagline; this is the first of my logo designs to include a tagline. This logo design was created using the online version of the digital sketchpad, aptly named Sketchpad, at https://sketch.io/
+ The simplePSO software implements particle swarm optimization. The logo embodies this with a sketch of a mountain-like 'cost' landscape and a swarm cloud that is swarming to the peak (i.e., the optimum) of the landscape. The design includes both the software name and z tagline; this is the first of my logo designs to include a tagline. This logo design was created using the online version of the digital sketchpad, aptly named Sketchpad, at https://sketch.io/
 
 #### HypBuilder logo<a name="hypbuilder"></a>
 

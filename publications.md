@@ -4,7 +4,7 @@ title: Publications
 subtitle: Academic publications.
 ---
 
-### Peer-reviwed Journal Articles
+### Peer-reviewed Journal Articles
 
 0. __Blake A. Wilson__, Arvind Ramanathan, and Carlos F. Lopez (2019) Cardiolipin-Dependent Properties of Model Mitochondrial Membranes from Molecular Simulations, Biophysical Journal, *In Press*, doi: 10.1016/j.bpb.2019.06.023
 0. Candace E. Benjamin, Zhuo Chen, Peiyuan Kang, __Blake A. Wilson__, Na Li, Steven O. Nielsen, Zhenpeng Qin, and Jeremiah J. Gassensmith (2018) Site Selective Nucleation and Size Control of Gold Nanoparticle Photothermal Antennae on the Pore Structures of a Virus, Journal of the American Chemical Society, 140, 49, 17226-17233, doi: 10.1021/jacs.8b10446
