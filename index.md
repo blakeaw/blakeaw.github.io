@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My website
+title: Blake A. Wilson, PhD
 subtitle: Experienced researcher | molecular simulation | systems biology | scientific/research software development (Python, C/C++)
 use-site-title: true
 ---
