@@ -92,4 +92,4 @@ The logo consists of three lipid bilayer sketches with corresponding data plot s
 * **Status:** In use
 
 ##### About:
-This is the logo I designed for my tea blog, Blake's Tea Journal. (If you're a fan of tea, you should check it out.) I think this is second the logo I designed after the PyBILT one. This logo design was created using the [GIMP](https://www.gimp.org/) software.
+This is the logo I designed for my tea blog, Blake's Tea Journal. (If you're a fan of tea, you should check it out.) I think this is the second logo I designed after the PyBILT one. This logo design was created using the [GIMP](https://www.gimp.org/) software.
