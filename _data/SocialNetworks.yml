@@ -95,3 +95,13 @@ researchgate:
     name: "ResearchGate"
     baseURL: "https://www.researchgate.net/profile/"
     icon: "fa-flask"
+
+anacondacloud:
+    name: "AnacondaCloud"
+    baseURL: "https://anaconda.org/"
+    icon: "fa-cloud"
+
+orcid:
+    name: "ORCID"
+    baseURL: "https://orcid.org/"
+    icon: "fa-id-card-o"
