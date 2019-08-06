@@ -104,4 +104,9 @@ anacondacloud:
 orcid:
     name: "ORCID"
     baseURL: "https://orcid.org/"
-    icon: "fa-address-card"
+    icon: "fa-id-card"
+
+pypi:
+    name: "PyPI"
+    baseURL: "https://pypi.org/user/"
+    icon: "fa-cubes"
