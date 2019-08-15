@@ -9,4 +9,4 @@ Hi! I’m the Blake behind this site. I’m an experienced researcher with a bac
 
 ### Other Interests
 
-I'm an avid tea drinker with a blog, [Blake's Tea Journal](blakesteajournal.blog), dedicated to tea and tea-related content; I also have an accompanying Zazzle store, <a href="https://www.zazzle.com/store/blakesteajournalblog?rf=238578075608592982&tc=PersonalSite" rel="nofollow">BlakesTeaJournalBlog</a>, where I sell my tea themed designs.
+I'm an avid tea drinker with a blog, [Blake's Tea Journal](https://blakesteajournal.blog), dedicated to tea and tea-related content; I also have an accompanying Zazzle store, <a href="https://www.zazzle.com/store/blakesteajournalblog?rf=238578075608592982&tc=PersonalSite" rel="nofollow">BlakesTeaJournalBlog</a>, where I sell my tea themed designs.
