@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My experience accelerating the core continuous genetic algorithm of GAlibrate Cython and Numba
-subtitle: A performance comparison
+title: Accelerating Python code with Cython and Numba
+subtitle: My experience accelerating the core continuous genetic algorithm of the GAlibrate package
 tags: [Python, Numba, Cython, genetic algorithm, optimization, model calibration]
 ---
 
