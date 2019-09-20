@@ -247,7 +247,7 @@ over a 100 fold faster than the Python-only version and roughly
 
 five times faster than the Python+NumPy version.
 
-#Summary
+# Summary
 Although Numba increased the performance of the Python version of the `estimate_pi` function by two orders of magnitude (and about a factor of 5 over the NumPy vectorized version), the Julia version was still faster, outperforming the Python+Numba version by about a factor of 3 for this application. This is just one application relatively simple application, so it would be interesting to compare the performance for some more applications and see if Julia is consistently faster.  
 
 Well, that's it for now. Thanks for reading. Feel free to share this post with anyone who might be interested. And be sure to come back for future posts; you can follow and get updates to this blog via its RSS/Atom Feed.
