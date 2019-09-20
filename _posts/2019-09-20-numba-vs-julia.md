@@ -9,23 +9,7 @@ I was recently reminded of a Julia script I wrote several years back to estimate
 
 ## Monte Carlo estimation of Pi
 
-My PhD advisor taught me this problem. It is a relatively simple example of using Monte Carlo methods to estimate a quantity. The basic idea is we have the area of a circle
-
-$$A_c = \pi r^2$$
-
-where in this case we assume $$\pi$$ is an unknown proportionality constant that we want estimate. We first imagine inscribing a circle inside a square. Then we note that the ratio of the circle's area to that of the square is
-$$
-\begin{equation}
-A_c/A_s = \frac{\pi r^2}{4r^2} = \frac{\pi}{4} \,.
-\end{equation}
-$$
-It's that ratio which we can estimate using Monte Carlo sampling. We simply draw samples at random within the square and check whether it falls within the circle. The fraction of samples within the circle, `n_circle`, is approximately equal to the ratio of the circle's area to that of the square it is inscribed within,
-$$
-\begin{equation}
-f = \frac{n\_circle}{nMC} \approx \frac{\pi}{4} \,,
-\end{equation}
-$$
-where `nMC` is the total number of Monte Carlo sampling points.
+My PhD advisor taught me this problem. It is a relatively simple example of using Monte Carlo methods to estimate a quantity. The basic idea is we have the area of a circle, `Ac = Pi*r^2`, where in this case we assume `Pi` is an unknown proportionality constant that we want estimate. We first imagine inscribing a circle inside a square. Then we note that the ratio of the circle's area to that of the square is `Ac/As = Pi*r^2/(4*r^2) = Pi/4`. It's that ratio which we can estimate using Monte Carlo sampling. We simply draw samples at random within the square (uniform sampling) and check whether it falls within the circle. The fraction of samples within the circle, `f = n_circle/nMC`, is approximately equal to the ratio of the circle's area to that of the square it is inscribed within; `nMC` is the total number of Monte Carlo sample points.
 
 # Code and timings
 For the purposes of my timing tests I set `nMC = 100000000` and the function which runs the Monte Carlo sampling and returns the estimate of Pi is named `estimate_pi`
