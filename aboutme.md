@@ -8,7 +8,7 @@ Hey there, I’m Blake - a computational scientist, programmer, and tea drinker.
 
 I received my BS in Chemistry from The University of Texas at Tyler. <span style="color:green">*(I would occasionally have some tea to get a caffeine boost.)*</span>
 
-Afterward, I obtained my PhD in Chemistry from The University of Texas at Dallas under the advisement of Steven O. Nielsen, which set me up with a solid foundation in theoretical/computational physical chemistry. <span style="color:green"> *(This was the time where the seeds of tea drinking started to take root and began to sprout.)* text</span>
+Afterward, I obtained my PhD in Chemistry from The University of Texas at Dallas under the advisement of Steven O. Nielsen, which set me up with a solid foundation in theoretical/computational physical chemistry. <span style="color:green"> *(This was the time where the seeds of tea drinking started to take root and began to sprout.)*</span>
 
 I then went on to do postdoctoral work under the supervision of Carlos F. Lopez, which provided me with new experience in computational systems biology. <span style="color:green"> *(It was during this period that my passion for tea really began to blossom.)*</span>
 
