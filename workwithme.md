@@ -1,17 +1,18 @@
 ---
 layout: page
 title: Work With Me
-subtitle: Let's find solutions together
+subtitle: Let's find solutions together.
 ---
 
 # Research Collaborations
 
-I'm open to forming research collaborations, so feel free to contact me if you've got a research project that you think I might be able help with.
+I'm always open to forming research collaborations, so feel free to contact me if you are interested in working together or if you think I might be able to help you with a research problem (see the icons at the bottom of the page for links to my various profiles as well as my email).
 
 # Freelance/Contract
 
-My current research position is only part-time, so I would consider accepting additional part-time and temporary freelance/contract work. Here are some things I might be able to help you with:
-  * consulting - computational science/research
-  * scientific/research software development
-  * manuscript editing
+Since my current research position is only part-time, I would consider accepting additional small jobs on a freelance/contract basis. Here are some things I might be able to help you with:
+  * scientific/research software development (e.g., to perform data analysis)
+  * manuscript editing (e.g., content and/or writing of research journal articles. This could be particularly useful for grad students or post-docs with English as a second language.)
   * logo design
+
+If you’re interested in commissioning one of the above services or want to discuss other ways how I might be able to help you, feel free to get in touch (see the icons at the bottom of the page for links to my various profiles as well as my email).
