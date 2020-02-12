@@ -46,6 +46,11 @@ These code samples are of course the current versions which I arrived at after i
 ## Performance comparison    
 I wanted to do a little more formal performance comparison of each of the GA versions (Cython, Numba, and pure Python) available in GAlibrate. I'm currently working on getting a more thorough/detailed performance comparison set up and able to run in a Jupyter notebook, and I'll come back and edit this post to add in the results after I've finished it, so be sure to come back later if your interested that data.
 
+**Update: 02/10/2020:**
+I finally made it back around to running the performance comparison. I ended running a scaling performance analysis with each of GA implementations with respect the GA number of parameters (or dimensionality), population size, and number of generations for a single model case. You can see the full analysis in [this Jupyter notebook](https://github.com/blakeaw/galibrate_performance_comparison/blob/master/gao_implementation_scaling_comparison.ipynb), but here is the summary:
+
+The Numba and Cython versions offered anywhere from about a 2-10 fold speed increase over the Python-only version dependent on the dimensionality of the problem (i.e., the number of parameters) and the choice of GA population size and number of generations (i.e., number of iterations); the benefit tended to increase as the aforementioned quantities increased. Additionally, the Numba implementation had slightly better performace than the Cython one.
+
 
 Well, that's all I have to say for now. Thanks for reading. Feel free to share this post with anyone who might be interested. And be sure to come back for future posts; you can follow and get updates to this blog via its RSS/Atom Feed.
 
