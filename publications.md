@@ -17,7 +17,7 @@ subtitle: Academic publications.
 
 ### Journal Covers
 
-<img width="200" height="250" src="https://marlin-prod.literatumonline.com/cms/attachment/atypon:cms:attachment:img:d245e6:rev:1565010213044-8329:pii:S0006349518X00174/cover.tif.jpg">
+<img width="300" height="350" src="https://marlin-prod.literatumonline.com/cms/attachment/atypon:cms:attachment:img:d245e6:rev:1565010213044-8329:pii:S0006349518X00174/cover.tif.jpg">
 
 ### Preprints
 0. __Blake A. Wilson__, Arvind Ramanathan, and Carlos F. Lopez (2019) Cardiolipin-dependent Properties
