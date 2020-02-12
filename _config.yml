@@ -25,6 +25,7 @@ navbar-links:
      - Publications: "publications"
      - Software: "software"
      - Logo Designs: "logos"
+  Work With Me: "workwithme"
   Blog: "blog"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
