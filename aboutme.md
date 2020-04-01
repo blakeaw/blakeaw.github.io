@@ -4,7 +4,7 @@ title: About Me
 subtitle: A little bit about me.  
 ---
 
-Hey there, I’m Blake - a computational scientist, programmer, and tea drinker.
+Hey there, I’m Blake - a computational scientist and tea drinker.
 
 I received my BS in Chemistry from The University of Texas at Tyler. <span style="color:green">*(I would occasionally have some tea to get a caffeine boost.)*</span>
 

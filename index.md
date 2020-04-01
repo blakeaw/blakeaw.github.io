@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blake A. Wilson, PhD
-subtitle: Computational scientist, programmer, & tea drinker.
+subtitle: Computational scientist & tea drinker.
 use-site-title: true
 bigimg:
     - "/img/big-img/BioJ_CL_CoverArt_darkened.png" : "Biophys. J. cover art"
