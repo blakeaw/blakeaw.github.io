@@ -7,8 +7,8 @@ tags: [Python, matplotlib, Jupyter notebooks]
 
 <table>
 <tr>
- <td> <a href="#pybilt"><img width="224" height="112" src="../img/posts/2020-05-25/2020-05-25_3_1.png"></a> </td>  
-<td> <a href="#gleipnir"><img width="224" height="112" src="../img/posts/2020-05-25/2020-05-25_5_1.png"></a> </td>
+ <td> <a href="#pybilt"><img width="448" height="224" src="../img/posts/2020-05-25/2020-05-25_3_1.png"></a> </td>  
+<td> <a href="#gleipnir"><img width="448" height="224" src="../img/posts/2020-05-25/2020-05-25_5_1.png"></a> </td>
 </tr>
 </table>
 
