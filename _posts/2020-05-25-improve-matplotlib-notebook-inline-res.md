@@ -12,7 +12,7 @@ tags: [Python, matplotlib, Jupyter notebooks]
 </tr>
 </table>
 
- Matplotlib can be a powerful tool for Python-based plotting, but if you've ever generated your plots inline within a Jupyter notebook you probably noticed that the default resolution of the rendered plot images is pretty low, which can leave your plots looking grainy and hard to read. This can be troublesome, particularly if you are planning to share your notebook or export it to another format.
+ Matplotlib can be a powerful tool for Python-based plotting, but if you've ever generated your plots inline within a Jupyter notebook you probably noticed that the default resolution of the rendered plot images is pretty low, which can leave your plots looking blurry/grainy and hard to read. This can be troublesome, particularly if you are planning to share your notebook or export it to another format.
 
  In this post, I'll share two ways to change default settings so that matplotlib plots come out with better resolution both inline and when exported (for example, with nbconvert).
 
@@ -36,7 +36,7 @@ plt.ylabel("y(x)")
 ```
 ![png](../img/posts/2020-05-25/2020-05-25_3_1.png)
 
-Pretty grainy...  
+Pretty blurry...  
 
 ## Solution 1. Change the default dpi settings in matplotlib
 By default the plots rendered in our notebooks are png format with a relatively low resolution. Although this first solution isn't necessarily Jupyter notebook specific, we use the following commands to increase the default pixel density used for our matplotlib plots via [matplotlib's rcParams](https://matplotlib.org/3.2.1/tutorials/introductory/customizing.html#matplotlib-rcparams).:
@@ -53,7 +53,7 @@ plt.xlabel("x")
 plt.ylabel("y(x)")
 ```
 ![png](../img/posts/2020-05-25/2020-05-25_5_1.png)
-Much clearer.
+Much clearer! (However, Jupyter has the quirk of increasing the image size too when you increase the figure dpi. I'm not sure why or how to alter this behavior without explicitly setting figure size via rcParams).
 
 ### Seaborn version
 If you are [seaborn](https://seaborn.pydata.org/) user, you can achieve similar results by with the following:
