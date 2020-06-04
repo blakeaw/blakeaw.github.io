@@ -98,6 +98,17 @@ set_matplotlib_formats('svg', 'pdf')
 ```
 which could be useful if you want to export the notebook itself to different formats (like markdown to share on the web and pdf to send to a colleague).
 
+**Update 06/04/2020:**
+Although you can get beautifully crisp and clear plots, I've found that in some cases switching the inline render format of plots to `svg` can cause the notebook to lag, so much so that it was noticeably bogging down one of my exploratory analysis notebooks; in that particular case, much of my data was overlapped anyways, so using `svg` probably wasn't best way to go regardless. Anyways, this may be something to keep in mind when deciding what solution is best for your case. As an alternative, I've gotten good results so far by using the `retina` format (instead of `svg`) with a default plot resolution of 100 dpi. So, something like
+```python
+import seaborn as sns
+sns.set(rc={"figure.dpi":100, 'savefig.dpi':300})
+sns.set_context('notebook')
+sns.set_style("ticks")
+from IPython.display import set_matplotlib_formats
+set_matplotlib_formats('retina')
+```  
+yields nice looking inline plots that are much cleaner and crisper than normal `png`, without so much notebook lag. This also doesn't alter the inline plot image size as much as when you just set the `figure.dpi` to something like 300 with the default `png` format.
 
 Well, that's it. Thanks for stopping by, and I hope these tips help you get nicer looking matplotlib plots inline and on export from your Jupyter notebooks.
 
