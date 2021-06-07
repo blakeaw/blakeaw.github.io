@@ -19,10 +19,12 @@ bigimg:
 ### Welcome!
 Hey, I'm Blake. I'm a computational scientist with a strong foundation in theoretical/computational physical chemistry and experience in computational systems biology, both of which have afforded me opportunities to work towards solving fundamental challenges in topics such as nanomaterials, biophysics, and cellular signaling. I have a penchant for computational methods and programming which tends to bias me towards (research) projects which either focus on or require the design of new computational tools to aid in modeling, simulation, and analysis. I also drink a lot of tea! I'm currently working as a (postdoctoral) Research Associate in the [Nano-Thermal Bioengineering Lab](https://www.nanobrainlab.net/) at [UT Dallas](https://www.utdallas.edu/).
 
+------
+
 #### Recent Publications
 
-0. **Preprint:** Peiyuan Kang, Yang Wang, __Blake A. Wilson__, Jaona Randrianalisoa, and Zhenpeng Qin (2021) Nanoparticle fragmentation at solid state under single picosecond laser pulse stimulation, bioRxiv, [DOI:10.1101/2021.06.02.446841]( https://doi.org/10.1101/2021.06.02.446841) 
-0. **Preprint:** Oscar O Ortega, __Blake A Wilson__, James C Pino, Michael W Irvin, Geena V Ildefonso, Shawn P Garbett, and Carlos F Lopez (2021) 
-Probability-based mechanisms in biological networks with parameter uncertainty, bioRxiv, [DOI:10.1101/2021.01.26.428266](https://doi.org/10.1101/2021.01.26.428266)
+0. **Preprint:** (2021) Peiyuan Kang, Yang Wang, <u>Blake A. Wilson</u>, Jaona Randrianalisoa, and Zhenpeng Qin,  Nanoparticle fragmentation at solid state under single picosecond laser pulse stimulation, bioRxiv, [DOI:10.1101/2021.06.02.446841]( https://doi.org/10.1101/2021.06.02.446841) 
+0. **Preprint:** (2021) Oscar O Ortega, <u>Blake A Wilson</u>, James C Pino, Michael W Irvin, Geena V Ildefonso, Shawn P Garbett, and Carlos F Lopez, Probability-based mechanisms in biological networks with parameter uncertainty, bioRxiv, [DOI:10.1101/2021.01.26.428266](https://doi.org/10.1101/2021.01.26.428266)
+{: reversed="reversed"}
 
 Visit [PUBLICATIONS](https://blakeaw.github.io/publications/) to view a full list of publications and more.
