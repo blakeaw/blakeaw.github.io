@@ -17,13 +17,14 @@ subtitle: Academic publications.
 {: reversed="reversed"}
 
 ### Preprints
+0. Peiyuan Kang, Yang Wang, __Blake A. Wilson__, Jaona Randrianalisoa, and Zhenpeng Qin (2021) Nanoparticle fragmentation at solid state under single picosecond laser pulse stimulation, bioRxiv, [DOI:10.1101/2021.06.02.446841]( https://doi.org/10.1101/2021.06.02.446841) 
 0. Oscar O Ortega, __Blake A Wilson__, James C Pino, Michael W Irvin, Geena V Ildefonso, Shawn P Garbett, and Carlos F Lopez (2021) 
 Probability-based mechanisms in biological networks with parameter uncertainty, bioRxiv, [DOI:10.1101/2021.01.26.428266](https://doi.org/10.1101/2021.01.26.428266)
 0. __Blake A. Wilson__, Arvind Ramanathan, and Carlos F. Lopez (2019) Cardiolipin-dependent Properties
 of Model Mitochondrial Membranes from Molecular Dynamics Simulations, bioRxiv, DOI:10.1101/557744
 (*Subsequently published in Biophys. J.;* see #7 under Peer-reviewed Journal Articles)  
-0. Candace Benjamin, Zhuo Chen, Peiyuan Kang, __Blake A. Wilson__, Na Li, Steven O. Nielsen, Zhen-
-peng Qin, and Jeremiah J. Gassensmith (2018) Site Selective Nucleation and Size Control of Gold
+0. Candace Benjamin, Zhuo Chen, Peiyuan Kang, __Blake A. Wilson__, Na Li, Steven O. Nielsen, Zhenpeng Qin, and Jeremiah J. Gassensmith (2018)
+ Site Selective Nucleation and Size Control of Gold
 Nanoparticle Photothermal Antennae on the Pore Structures of a Virus and Confined Drug Delivery,
 ChemRxiv, DOI:10.26434/chemrxiv.7040318.v2
 (*Subsequently published in JACS;* see #6 under Peer-reviewed Journal Articles)
