@@ -23,7 +23,7 @@ Hey, I'm Blake. I'm a computational scientist with a strong foundation in theore
 
 #### Recent Publications
 
-0. **Preprint:** (2021) Peiyuan Kang, Yang Wang, <u>Blake A. Wilson</u>, Jaona Randrianalisoa, and Zhenpeng Qin,  Nanoparticle fragmentation at solid state under single picosecond laser pulse stimulation, bioRxiv, [DOI:10.1101/2021.06.02.446841]( https://doi.org/10.1101/2021.06.02.446841) 
+0. **In press:** (2021) Peiyuan Kang, Yang Wang, <u>Blake A. Wilson</u>, Jaona Randrianalisoa, and Zhenpeng Qin,  Nanoparticle fragmentation below the melting point under single picosecond laser pulse stimulation, J. Phys. Chem. C
 0. **Preprint:** (2021) Oscar O Ortega, <u>Blake A Wilson</u>, James C Pino, Michael W Irvin, Geena V Ildefonso, Shawn P Garbett, and Carlos F Lopez, Probability-based mechanisms in biological networks with parameter uncertainty, bioRxiv, [DOI:10.1101/2021.01.26.428266](https://doi.org/10.1101/2021.01.26.428266)
 {: reversed="reversed"}
 

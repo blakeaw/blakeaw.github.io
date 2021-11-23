@@ -6,6 +6,7 @@ subtitle: Academic publications.
 
 ### Peer-reviewed Journal Articles
 
+0. Peiyuan Kang, Yang Wang, __Blake A. Wilson__, Jaona Randrianalisoa, and Zhenpeng Qin (2021) Nanoparticle fragmentation below the melting point under single picosecond laser pulse stimulation, J. Phys. Chem. C, _In press_
 0. __Blake A. Wilson__, Arvind Ramanathan, and Carlos F. Lopez (2019) Cardiolipin-Dependent Properties of Model Mitochondrial Membranes from Molecular Simulations, Biophysical Journal, 117, 3, 429-444, (*Cover image appeared on the <a href="https://www.cell.com/biophysj/issue?pii=S0006-3495(18)X0017-4">August 6th Issue</a> with a corresponding [BPS Blog post](https://www.biophysics.org/blog/structure-and-dynamics-of-model-mitochondria-membranes-1)*), doi: 10.1016/j.bpb.2019.06.
 <img width="200" height="250" src="https://marlin-prod.literatumonline.com/cms/attachment/atypon:cms:attachment:img:d245e6:rev:1565010213044-8329:pii:S0006349518X00174/cover.tif.jpg">
 0. Candace E. Benjamin, Zhuo Chen, Peiyuan Kang, __Blake A. Wilson__, Na Li, Steven O. Nielsen, Zhenpeng Qin, and Jeremiah J. Gassensmith (2018) Site Selective Nucleation and Size Control of Gold Nanoparticle Photothermal Antennae on the Pore Structures of a Virus, Journal of the American Chemical Society, 140, 49, 17226-17233, doi: 10.1021/jacs.8b10446
@@ -17,18 +18,10 @@ subtitle: Academic publications.
 {: reversed="reversed"}
 
 ### Preprints
-0. Peiyuan Kang, Yang Wang, __Blake A. Wilson__, Jaona Randrianalisoa, and Zhenpeng Qin (2021) Nanoparticle fragmentation at solid state under single picosecond laser pulse stimulation, bioRxiv, [DOI:10.1101/2021.06.02.446841]( https://doi.org/10.1101/2021.06.02.446841) 
+
 0. Oscar O Ortega, __Blake A Wilson__, James C Pino, Michael W Irvin, Geena V Ildefonso, Shawn P Garbett, and Carlos F Lopez (2021) 
 Probability-based mechanisms in biological networks with parameter uncertainty, bioRxiv, [DOI:10.1101/2021.01.26.428266](https://doi.org/10.1101/2021.01.26.428266)
-0. __Blake A. Wilson__, Arvind Ramanathan, and Carlos F. Lopez (2019) Cardiolipin-dependent Properties
-of Model Mitochondrial Membranes from Molecular Dynamics Simulations, bioRxiv, DOI:10.1101/557744
-(*Subsequently published in Biophys. J.;* see #7 under Peer-reviewed Journal Articles)  
-0. Candace Benjamin, Zhuo Chen, Peiyuan Kang, __Blake A. Wilson__, Na Li, Steven O. Nielsen, Zhenpeng Qin, and Jeremiah J. Gassensmith (2018)
- Site Selective Nucleation and Size Control of Gold
-Nanoparticle Photothermal Antennae on the Pore Structures of a Virus and Confined Drug Delivery,
-ChemRxiv, DOI:10.26434/chemrxiv.7040318.v2
-(*Subsequently published in JACS;* see #6 under Peer-reviewed Journal Articles)
-{: reversed="reversed"}
+
 
 ### Software
 0. Blake A. Wilson. (2019). ObjectiveLearner: Supervised Machine Learning and Sensitivity Analysis
