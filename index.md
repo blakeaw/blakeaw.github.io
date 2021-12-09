@@ -16,7 +16,7 @@ bigimg:
     - "/img/big-img/7percentCL_sideview_darkened.png" : "Model mitochondrial membrane with 7 percent CL"
     - "/img/big-img/pybilt_bilayeranalyzer_code_carbon.png" : "PyBILT use code snippet"
     - "/img/big-img/pybilt_bilayer_representations_darkened.png" : "PyBILT bilayer representations"
-    - "/img/big-img/NP_in_three_bead_lipid_bilayer_darkened.png" : "Nanoparticle in a coarse grained lipid bilayer"
+    - "/img/big-img/NP_in_three_bead_lipid_bilayer_darkened.jpg" : "Nanoparticle in a coarse grained lipid bilayer"
     - "/img/big-img/QEmembrane_rot.jpg" :  "Carbon nanotube membrane"
     - "/img/big-img/cox1_struct_to_network_darkened.jpg" : "Network analysis of COX-1 protein"
     
