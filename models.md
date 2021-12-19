@@ -8,7 +8,7 @@ subtitle: Biological and other model contributions.
 
 * **Type:** Rules-based ordinary differential equation
 * **Language:** [PySB](http://pysbdev.lolab.xyz/) (Python)
-* **GitHub Repo:** [https://github.com/NTBEL/PARM](https://github.com/NTBEL/PARM)
+* **GitHub Repo:** [NTBEL/PARM](https://github.com/NTBEL/PARM)
 
 ------
 
@@ -16,6 +16,6 @@ subtitle: Biological and other model contributions.
 
 * **Type:** Functions for empirical fitting of response data
 * **Language:** Python
-* **GitHub Repo:** [https://github.com/NTBEL/pharmacodynamic-response-models](https://github.com/NTBEL/pharmacodynamic-response-models)
+* **GitHub Repo:** [NTBEL/pharmacodynamic-response-models](https://github.com/NTBEL/pharmacodynamic-response-models)
 
 ------

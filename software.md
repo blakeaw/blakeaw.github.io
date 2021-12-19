@@ -10,7 +10,7 @@ subtitle: A selection of software contributions.
 
 * **Type:** Scientific/Research Software
 * **Language:** Python
-* **GitHub Repo:** [https://github.com/LoLab-VU/PyBILT](https://github.com/LoLab-VU/PyBILT)
+* **GitHub Repo:** [LoLab-VU/PyBILT](https://github.com/LoLab-VU/PyBILT)
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3426128.svg)](https://doi.org/10.5281/zenodo.3426128)
 
 ###### Description
@@ -24,7 +24,7 @@ PyBILT (Python based lipid BILayer molecular simulation analysis Toolkit) is a P
 
 * **Type:** Scientific/Research Software
 * **Language:** Python
-* **GitHub Repo:** [https://github.com/LoLab-VU/Gleipnir](https://github.com/LoLab-VU/Gleipnir)
+* **GitHub Repo:** [LoLab-VU/Gleipnir](https://github.com/LoLab-VU/Gleipnir)
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3743840.svg)](https://doi.org/10.5281/zenodo.3743840)
 
 ###### Description
@@ -38,11 +38,24 @@ Gleipnir is a python toolkit that provides an easy to use interface for Bayesian
 
 * **Type:** Scientific/Research Software
 * **Language:** Python
-* **GitHub Repo:** [https://github.com/blakeaw/GAlibrate](https://github.com/blakeaw/GAlibrate)
+* **GitHub Repo:** [blakeaw/GAlibrate](https://github.com/blakeaw/GAlibrate)
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3903010.svg)](https://doi.org/10.5281/zenodo.3903010)
 
 ###### Description
 GAlibrate is a python toolkit that provides an easy to use interface for model calibration/parameter estimation using an implementation of continuous genetic algorithm-based optimization.
+
+Performance scaling analysis available in [this Jupyter notebook](https://github.com/blakeaw/galibrate_performance_comparison/blob/master/gao_implementation_scaling_comparison.ipynb)
+
+------
+
+#### BioComparator
+
+* **Type:** Scientific/Research Software
+* **Language:** Python
+* **GitHub Repo:** [LoLab-VU/BioComparator](https://github.com/LoLab-VU/BioComparator)
+
+###### Description
+BioComparator is a Python utility for comparing biological models encoded with [PySB](http://pysbdev.lolab.xyz/). BioComparator fits candidate models to a common data set and provides users with a set of comparative metrics that allows them to evaluate the models' fit to the data and the trade offs between the fit to data and model size/complexity.
 
 ------
 
@@ -50,7 +63,7 @@ GAlibrate is a python toolkit that provides an easy to use interface for model c
 
 * **Type:** Scientific/Research Software
 * **Language:** Python
-* **GitHub Repo:** [https://github.com/blakeaw/ObjectiveLearner](https://github.com/blakeaw/ObjectiveLearner)
+* **GitHub Repo:** [blakeaw/ObjectiveLearner](https://github.com/blakeaw/ObjectiveLearner)
 * [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3408007.svg)](https://doi.org/10.5281/zenodo.3408007)
 
 ###### Description
@@ -62,7 +75,7 @@ GAlibrate is a python toolkit that provides an easy to use interface for model c
 
 * **Type:** Text-based RPG (just for fun)
 * **Language:** Bash
-* **GitHub Repo:** [https://github.com/blakeaw/BashAdventure](https://github.com/blakeaw/BashAdventure)
+* **GitHub Repo:** [blakeaw/BashAdventure](https://github.com/blakeaw/BashAdventure)
 
 ###### Description
 Bash Adventure is a short and simple text-based RPG style game written in Bash script that you can play in the terminal. Although I've yet to get around to smoothing out some of the rough edges (hard to believe it's been several years since I wrote the game), it should still provide a few minutes (maybe like 5 to 10 or so) of classic text-based gaming entertainment.
