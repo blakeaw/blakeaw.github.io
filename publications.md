@@ -19,19 +19,5 @@ subtitle: Academic publications.
 
 ### Preprints
 
-0. Oscar O Ortega, __Blake A Wilson__, James C Pino, Michael W Irvin, Geena V Ildefonso, Shawn P Garbett, and Carlos F Lopez (2021) 
+0. Oscar O Ortega, __Blake A Wilson__, James C Pino, Michael W Irvin, Geena V Ildefonso, Shawn P Garbett, and Carlos F Lopez (2021)
 Probability-based mechanisms in biological networks with parameter uncertainty, bioRxiv, [DOI:10.1101/2021.01.26.428266](https://doi.org/10.1101/2021.01.26.428266)
-
-
-### Software
-0. Blake A. Wilson. (2019). ObjectiveLearner: Supervised Machine Learning and Sensitivity Analysis
-for objective functions called during model calibration in Python. Zenodo. [https://doi.org/10.5281/zenodo.3408006](https://doi.org/10.5281/zenodo.3408006)
-0. Blake A. Wilson. (2019). GAlibrate: Model calibration using Genetic Algorithm optimization in
-Python. Zenodo.
-[https://doi.org/10.5281/zenodo.3345232](https://doi.org/10.5281/zenodo.3345232)
-0. Blake A. Wilson and Carlos F. Lopez. (2019). LoLab-VU/Gleipnir: Bayesian parameter inference
-and model selection for biological models using Nested Sampling in Python. Zenodo.
-[https://doi.org/10.5281/zenodo.3036345](https://doi.org/10.5281/zenodo.3036345)
-0. Blake A. Wilson, Arvind Ramanathan, and Carlos F. Lopez. (2019). LoLab-VU/PyBILT: A Python
-toolkit to analyze molecular simulation trajectories of lipid bilayer systems. Zenodo. [https://doi.org/10.5281/zenodo.3426127](https://doi.org/10.5281/zenodo.3426127)
-{: reversed="reversed"}

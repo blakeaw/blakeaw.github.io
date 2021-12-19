@@ -23,6 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Portfolio:
      - Publications: "publications"
+     - Models: "models"
      - Software: "software"
      - Logo Designs: "logos"
   Work With Me: "workwithme"
