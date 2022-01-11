@@ -19,5 +19,6 @@ subtitle: Academic publications.
 
 ### Preprints
 
+0. __Blake A Wilson__, Steven O Nielsen, Jaona H Randrianalisoa, and Zhenpeng Qin (2022) Temperature and curvature-dependent thermal interface conductance between nanoscale-gold and water from molecular simulation, ChemRxiv, [DOI:10.26434/chemrxiv-2022-30jv2](https://doi.org/10.26434/chemrxiv-2022-30jv2)
 0. Oscar O Ortega, __Blake A Wilson__, James C Pino, Michael W Irvin, Geena V Ildefonso, Shawn P Garbett, and Carlos F Lopez (2021)
 Probability-based mechanisms in biological networks with parameter uncertainty, bioRxiv, [DOI:10.1101/2021.01.26.428266](https://doi.org/10.1101/2021.01.26.428266)
