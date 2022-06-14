@@ -43,36 +43,25 @@ Currently, I am working as a post-doctoral Research Associate in the [Nano-Therm
 ------
 ## Technical Skills
 
-### Programming
+#### Programming
 
-#### Scientific computing:
+**Scientific computing:** ![Python](https://img.shields.io/badge/Python-proficient-success) ![C/C++](https://img.shields.io/badge/C/C++-intermediate-yellowgreen) ![Fortran](https://img.shields.io/badge/Fortran-novice-yellow) ![Julia](https://img.shields.io/badge/Julia-novice-yellow)
 
-![Python](https://img.shields.io/badge/Python-proficient-success) ![C/C++](https://img.shields.io/badge/C/C++-intermediate-yellowgreen) ![Fortran](https://img.shields.io/badge/Fortran-novice-yellow) ![Julia](https://img.shields.io/badge/Julia-novice-yellow)
+**Markup:** ![Latex](https://img.shields.io/badge/LaTex-proficient-success) ![md](https://img.shields.io/badge/markdown-proficient-success) ![HTML](https://img.shields.io/badge/HTML-intermediate-yellowgreen)
 
-#### Markup:
-
-![Latex](https://img.shields.io/badge/LaTex-proficient-success) ![md](https://img.shields.io/badge/markdown-proficient-success) ![HTML](https://img.shields.io/badge/HTML-intermediate-yellowgreen)
-
-#### Version control
-![git](https://img.shields.io/badge/git-proficient-success)
+**Version control:** ![git](https://img.shields.io/badge/git-proficient-success)
 ![GitHub](https://img.shields.io/badge/GitHub-proficient-success)
 
-### Models and Simulation
+#### Models and Simulation
 
-#### atomistic/molecular simulation:
-
-![molecular dynamics](https://img.shields.io/badge/molecular%20dynamics-proficient-success) ![MonteCarlo](https://img.shields.io/badge/Monte%20Carlo-proficient-success)
+**atomistic/molecular simulation:** ![molecular dynamics](https://img.shields.io/badge/molecular%20dynamics-proficient-success) ![MonteCarlo](https://img.shields.io/badge/Monte%20Carlo-proficient-success)
 ![FreeEnergy](https://img.shields.io/badge/Free%20Energy%20Methods-proficient-success)
 
-### statistical models:
-
-![MachineLearning](https://img.shields.io/badge/Machine%20Learning-intermediate-yellowgreen)
+**statistical models:** ![MachineLearning](https://img.shields.io/badge/Machine%20Learning-intermediate-yellowgreen)
 ![NetworkAnalysis](https://img.shields.io/badge/Network%20Analysis-intermediate-yellowgreen)
 ![InfoTheory](https://img.shields.io/badge/Information%20Theoretics-intermediate-yellowgreen)
 
-### mechanistic models:
-
-![parameterestimation](https://img.shields.io/badge/parameter%20estimation-proficient-success)
+**mechanistic models:** ![parameterestimation](https://img.shields.io/badge/parameter%20estimation-proficient-success)
 ![modelselection](https://img.shields.io/badge/model%20selection-proficient-success)
 ![ODEs](https://img.shields.io/badge/ordinary%20differential%20equations-proficient-success)
 ![PDEs](https://img.shields.io/badge/partial%20differential%20equations-intermediate-yellowgreen)
