@@ -21,11 +21,18 @@ bigimg:
     - "/img/big-img/cox1_struct_to_network_darkened.jpg" : "Network analysis of COX-1 protein"
 
 ---
-### Welcome!
-Hey, I'm Blake. I'm a computational scientist with a strong foundation in theoretical/computational physical chemistry and experience in computational systems biology, both of which have afforded me opportunities to work towards solving fundamental challenges in topics such as nanomaterials, biophysics, and cellular signaling. I have a penchant for computational methods and programming which tends to bias me towards (research) projects which either focus on or require the design of new computational tools to aid in modeling, simulation, and analysis. I also drink a lot of tea! I'm currently working as a (postdoctoral) Research Associate in the [Nano-Thermal Bioengineering Lab](https://www.nanobrainlab.net/) at [UT Dallas](https://www.utdallas.edu/).
+### Welcome
+
+Hey there, I’m Blake - a computational scientist with experience building models, running simulations, and performing data analysis in areas including nanomaterials, biophysics, and cell signaling. I have a penchant for computational methods and programming which tends to bias me towards (research) projects which either focus on or require the design of new computational tools to aid in modeling, simulation, and analysis. I also drink a lot of tea!
+
+Currently, I'm a (postdoctoral) Research Associate in the [Nano-Thermal Bioengineering Lab (NT-BEL)](https://www.nanobrainlab.net/) at [UT Dallas](https://www.utdallas.edu/). I provide computational support including modeling and data analysis to a variety of projects in the lab, but my principal focus has been on studying [molecular hyperthermia](https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.201700841) and diffusion in the brain extracellular space. I use a variety of modeling and simulation methods including molecular dynamics simulation, rules-based ODE models, and reaction-diffusion modeling along with data and image analysis methods to help better understand and characterize these phenomena.
+
+[![Current](https://img.shields.io/badge/Research%20Associate-2019--Present-blueviolet?style=social)](aboutme.md#professional-experience)
+[![PhD](https://img.shields.io/badge/Ph.D.-Chemistry-blue?style=social)](aboutme.md#education)
+
+[![CV](https://img.shields.io/badge/Download-my%20CV-lightgrey?style=for-the-badge)](https://drive.google.com/file/d/1ho-T9pX_E52hr6Z-xWw8n2HFYGoYO9we/view?usp=sharing) [![LearnMore](https://img.shields.io/badge/Learn%20More-About%20Me-lightgrey?style=for-the-badge)](aboutme.md) [![LearnMore](https://img.shields.io/badge/Learn%20More-About%20NT--BEL's%20Research-lightgrey?style=for-the-badge)](https://www.nanobrainlab.net/research-areas)
 
 ------
-
 #### Recent Publications
 
 0. **Preprint:** (2022) Xiaoqing Li, Qi Cai, <u>Blake A Wilson</u>, Hanwen Fan, Monica Giannotta, Robert Bachoo and Zhenpeng Qin, Calcium-Mediated Modulation of Blood-Brain Barrier Permeability by Laser Stimulation of Endothelial-Targeted Nanoparticles, bioRxiv, [DOI:10.1101/2022.06.02.494541](https://doi.org/10.1101/2022.06.02.494541)
@@ -35,3 +42,11 @@ Hey, I'm Blake. I'm a computational scientist with a strong foundation in theore
 {: reversed="reversed"}
 
 Visit [PUBLICATIONS](https://blakeaw.github.io/publications/) to view a full list of publications.
+
+------
+#### Upcoming conferences
+
+* [SB3C 2022](https://sb3c.org/) (in-person)
+  * Abstract 426 (poster): "Mathematical Modeling Of PAR2 Signaling And Receptor Photoinactivation With Molecular Hyperthermia
+* [WCB 2022](https://www.wcb2022.com/) (virtual)
+  * Abstract 14603 (poster): "Quantitative analysis of PAR2 signaling by receptor photoinactivation with molecular hyperthermia"
