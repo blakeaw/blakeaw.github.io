@@ -27,8 +27,8 @@ Hey there, I’m Blake - a computational scientist with experience building mode
 
 Currently, I'm a (postdoctoral) Research Associate in the [Nano-Thermal Bioengineering Lab (NT-BEL)](https://www.nanobrainlab.net/) at [UT Dallas](https://www.utdallas.edu/). I provide computational support including modeling and data analysis to a variety of projects in the lab, but my principal focus has been on studying [molecular hyperthermia](https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.201700841) and diffusion in the brain extracellular space. I use a variety of modeling and simulation methods including molecular dynamics simulation, rules-based ODE models, and reaction-diffusion modeling along with data and image analysis methods to help better understand and characterize these phenomena.
 
-[![Current](https://img.shields.io/badge/Research%20Associate-2019--Present-blueviolet?style=social)](aboutme.md#professional-experience)
-[![PhD](https://img.shields.io/badge/Ph.D.-Chemistry-blue?style=social)](aboutme.md#education)
+[![Current](https://img.shields.io/badge/Research%20Associate-2019--Present-blueviolet?style=social)](aboutme#professional-experience)
+[![PhD](https://img.shields.io/badge/Ph.D.-Chemistry-blue?style=social)](aboutme#education)
 
 [![CV](https://img.shields.io/badge/Download-my%20CV-lightgrey?style=for-the-badge)](https://drive.google.com/file/d/1ho-T9pX_E52hr6Z-xWw8n2HFYGoYO9we/view?usp=sharing) [![LearnMore](https://img.shields.io/badge/Learn%20More-About%20Me-lightgrey?style=for-the-badge)](aboutme.md) [![LearnMore](https://img.shields.io/badge/Learn%20More-About%20NT--BEL's%20Research-lightgrey?style=for-the-badge)](https://www.nanobrainlab.net/research-areas)
 
