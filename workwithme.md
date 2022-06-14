@@ -1,9 +1,16 @@
 ---
 layout: page
-title: Work With Me
-subtitle: Let's find solutions together.
+title: Contact
+subtitle: Want to get in touch?
 ---
 
-# Research Collaborations
+Interested in my research at UT Dallas and want to get in touch:
 
-I'm always open to forming research collaborations, so feel free to contact me if you are interested in working together or if you think I might be able to help you with a research problem (see the icons at the bottom of the page for links to my various profiles as well as my email). I'm currently working as a (postdoctoral) Research Associate in the [Nano-Thermal Bioengineering Lab](https://openwetware.org/wiki/Qin) at [UT Dallas](https://www.utdallas.edu/).
+[![UTDEmail](https://img.shields.io/badge/EMAIL-blake.wilson@utdalla.edu-lightgrey?style=flat-square)](mailto:blake.wilson@utdallas.edu)
+
+Want to reach out about other topics like my past work, one of my blog posts, or maybe just to get some want some tea recommendations:
+
+[![Gmail](https://img.shields.io/badge/EMAIL-blakeaw1102@gmail.com-lightgrey?style=flat-square)](mailto:blakeaw1102@gmail.com)
+
+
+You can also find me on various professional social platforms such as Research Gate and LinkedIn: see the icons at the bottom of the page for links to my various profiles.
