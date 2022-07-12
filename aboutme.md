@@ -4,7 +4,7 @@ title: About
 subtitle: A little bit about me.  
 ---
 
-[![CV](https://img.shields.io/badge/Download-my%20CV-lightgrey?style=for-the-badge)](https://drive.google.com/file/d/1ho-T9pX_E52hr6Z-xWw8n2HFYGoYO9we/view?usp=sharing)
+[![CV](https://img.shields.io/badge/Download-my%20CV-lightgrey?style=for-the-badge)](https://drive.google.com/file/d/1JCpTAaTp_cIA0VEb8G9surkjtIyj9ZUJ/view?usp=sharing)
 
 ## Contents
 

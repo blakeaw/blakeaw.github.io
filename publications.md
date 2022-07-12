@@ -6,7 +6,9 @@ subtitle: Academic publications.
 
 ### Peer-reviewed Journal Articles
 
-0. Peiyuan Kang, Yang Wang, __Blake A. Wilson__, Jaona Randrianalisoa, and Zhenpeng Qin (2021) Nanoparticle fragmentation below the melting point under single picosecond laser pulse stimulation, J. Phys. Chem. C, [https://doi.org/10.1021/acs.jpcc.1c06684](https://doi.org/10.1021/acs.jpcc.1c06684)
+0. __Blake A. Wilson__, Steven O. Nielsen, Jaona H. Randrianalisoa, and Zhenpeng Qin (2022) Temperature and curvature-dependent thermal interface conductance between nanoscale-gold and water from molecular simulation, J. Chem. Phys. (in press), [DOI:10.1063/5.0090683](https://doi.org/10.1063/5.0090683)
+0. Hejian Xiong, Emre Lacin, Hui Ouyang, Aditi Naik, Xueqi Xu, Chen Xie, Jonghae Youn, __Blake A. Wilson__, Krutin Kumar, Tyler Kern, Erin Aisenberg, Daniel Kircher, Xiuying Li, Joseph A. Zasadzinski, Celine Mateo, David Kleinfeld, Sabina Hrabetova, Paul A. Slesinger, Zhenpeng Qin (2022) Probing Neuropeptide Volume Transmission In Vivo by Simultaneous Near-Infrared Light Triggered Release and Optical Sensing, Angewandte Chemie (in press), [DOI:10.1002/anie.202206122]( https://doi.org/10.1002/anie.202206122)
+0. Peiyuan Kang, Yang Wang, __Blake A. Wilson__, Jaona Randrianalisoa, and Zhenpeng Qin (2021) Nanoparticle fragmentation below the melting point under single picosecond laser pulse stimulation, J. Phys. Chem. C, [DOI:10.1021/acs.jpcc.1c06684](https://doi.org/10.1021/acs.jpcc.1c06684)
 0. __Blake A. Wilson__, Arvind Ramanathan, and Carlos F. Lopez (2019) Cardiolipin-Dependent Properties of Model Mitochondrial Membranes from Molecular Simulations, Biophysical Journal, 117, 3, 429-444, (*Cover image appeared on the <a href="https://www.cell.com/biophysj/issue?pii=S0006-3495(18)X0017-4">August 6th Issue</a> with a corresponding [BPS Blog post](https://www.biophysics.org/blog/structure-and-dynamics-of-model-mitochondria-membranes-1)*), doi: 10.1016/j.bpb.2019.06.
 <img width="200" height="250" src="https://marlin-prod.literatumonline.com/cms/attachment/atypon:cms:attachment:img:d245e6:rev:1565010213044-8329:pii:S0006349518X00174/cover.tif.jpg">
 0. Candace E. Benjamin, Zhuo Chen, Peiyuan Kang, __Blake A. Wilson__, Na Li, Steven O. Nielsen, Zhenpeng Qin, and Jeremiah J. Gassensmith (2018) Site Selective Nucleation and Size Control of Gold Nanoparticle Photothermal Antennae on the Pore Structures of a Virus, Journal of the American Chemical Society, 140, 49, 17226-17233, doi: 10.1021/jacs.8b10446
@@ -19,7 +21,6 @@ subtitle: Academic publications.
 
 ### Preprints
 
-0. Xiaoqing Li, Qi Cai, __Blake A Wilson__, Hanwen Fan, Monica Giannotta, Robert Bachoo, and Zhenpeng Qin (2022) Calcium-Mediated Modulation of Blood-Brain Barrier Permeability by Laser Stimulation of Endothelial-Targeted Nanoparticles, bioRxiv, [DOI:10.1101/2022.06.02.494541](https://doi.org/10.1101/2022.06.02.494541)
-0. __Blake A Wilson__, Steven O Nielsen, Jaona H Randrianalisoa, and Zhenpeng Qin (2022) Temperature and curvature-dependent thermal interface conductance between nanoscale-gold and water from molecular simulation, ChemRxiv, [DOI:10.26434/chemrxiv-2022-30jv2](https://doi.org/10.26434/chemrxiv-2022-30jv2)
-0. Oscar O Ortega, __Blake A Wilson__, James C Pino, Michael W Irvin, Geena V Ildefonso, Shawn P Garbett, and Carlos F Lopez (2021)
+0. Xiaoqing Li, Qi Cai, __Blake A. Wilson__, Hanwen Fan, Monica Giannotta, Robert Bachoo, and Zhenpeng Qin (2022) Calcium-Mediated Modulation of Blood-Brain Barrier Permeability by Laser Stimulation of Endothelial-Targeted Nanoparticles, bioRxiv, [DOI:10.1101/2022.06.02.494541](https://doi.org/10.1101/2022.06.02.494541)
+0. Oscar O. Ortega, __Blake A. Wilson__, James C. Pino, Michael W. Irvin, Geena V. Ildefonso, Shawn P. Garbett, and Carlos F. Lopez (2021)
 Probability-based mechanisms in biological networks with parameter uncertainty, bioRxiv, [DOI:10.1101/2021.01.26.428266](https://doi.org/10.1101/2021.01.26.428266)
