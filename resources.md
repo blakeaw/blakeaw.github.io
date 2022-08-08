@@ -6,7 +6,7 @@ subtitle: Potentially helpful resources.
 
 ## Templates
 
-* [Scientific Research Project Trello Template](https://trello.com/templates/project-management/scientific-research-project-template-GBnhFbVr)
+* [Trello Template: Scientific Research Project](https://trello.com/templates/project-management/scientific-research-project-(template)-GBnhFbVr/blakewilson16/recommend)
 * [Research Article Outline Template - MS Word](https://docs.google.com/document/d/1Lnm4vBguRAh71Nem0pjfa67WBuhIPRp1/edit?usp=sharing&ouid=101304454590803644776&rtpof=true&sd=true)
 * [Review Article Outline Template - MS Word](https://docs.google.com/document/d/1fz8BFixCmFOKDLaDvGhAnLZhJt-CpYMc/edit?usp=sharing&ouid=101304454590803644776&rtpof=true&sd=true)
 
@@ -58,7 +58,7 @@ subtitle: Potentially helpful resources.
   * [KFC Server](https://mitchell-web.ornl.gov/KFC_Server/index.php) - protein-protein binding hotspot prediction
   * [ClusPro](https://cluspro.bu.edu/login.php) - protein-protein docking
   * [SWISS-MODEL](https://swissmodel.expasy.org/) - protein homology modeling
-  * [Rosetta](https://www.rosettacommons.org/software) - protein structure analysis, docking, homology modeling, and more. 
+  * [Rosetta](https://www.rosettacommons.org/software) - protein structure analysis, docking, homology modeling, and more.
 * biological pathway/reaction network/systems biology modeling:
   * [PySB](https://pysb.org/) - rules-based reaction network model specification and simulation using the Python programming language (ODE or SDE models)
   * [BioNetGen](https://bionetgen.org/) - rules-based reaction network model specification and simulation (ODE or SDE models)

@@ -36,8 +36,8 @@ Currently, I'm a (postdoctoral) Research Associate in the [Nano-Thermal Bioengin
 #### Recent Publications
 
 
-0. **Journal Article:** (2022) <u>Blake A Wilson</u>, Steven O Nielsen, Jaona H Randrianalisoa, and Zhenpeng Qin, Temperature and curvature-dependent thermal interface conductance between nanoscale-gold and water from molecular simulation, J. Chem. Phys. (in press), [DOI:10.1063/5.0090683](https://doi.org/10.1063/5.0090683)
-0. **Journal Article:** (2022) Hejian Xiong, Emre Lacin, Hui Ouyang, Aditi Naik, Xueqi Xu, Chen Xie, Jonghae Youn, <u>Blake A. Wilson</u>, Krutin Kumar, Tyler Kern, Erin Aisenberg, Daniel Kircher, Xiuying Li, Joseph A. Zasadzinski, Celine Mateo, David Kleinfeld, Sabina Hrabetova, Paul A. Slesinger, Zhenpeng Qin, Probing Neuropeptide Volume Transmission In Vivo by Simultaneous Near-Infrared Light Triggered Release and Optical Sensing, Angewandte Chemie (in press), [DOI:10.1002/anie.202206122]( https://doi.org/10.1002/anie.202206122)
+0. **Journal Article:** (2022) <u>Blake A Wilson</u>, Steven O Nielsen, Jaona H Randrianalisoa, and Zhenpeng Qin, Curvature and temperature-dependent thermal interface conductance between nanoscale gold and water, J. Chem. Phys. 157, 054703; [DOI:10.1063/5.0090683](https://doi.org/10.1063/5.0090683)
+0. **Journal Article:** (2022) Hejian Xiong, Emre Lacin, Hui Ouyang, Aditi Naik, Xueqi Xu, Chen Xie, Jonghae Youn, <u>Blake A. Wilson</u>, Krutin Kumar, Tyler Kern, Erin Aisenberg, Daniel Kircher, Xiuying Li, Joseph A. Zasadzinski, Celine Mateo, David Kleinfeld, Sabina Hrabetova, Paul A. Slesinger, Zhenpeng Qin, Probing Neuropeptide Volume Transmission In Vivo by Simultaneous Near-Infrared Light Triggered Release and Optical Sensing, Angew. Chem., e202206122; [DOI:10.1002/anie.202206122]( https://doi.org/10.1002/anie.202206122)
 0. **Preprint:** (2022) Xiaoqing Li, Qi Cai, <u>Blake A Wilson</u>, Hanwen Fan, Monica Giannotta, Robert Bachoo and Zhenpeng Qin, Calcium-Mediated Modulation of Blood-Brain Barrier Permeability by Laser Stimulation of Endothelial-Targeted Nanoparticles, bioRxiv, [DOI:10.1101/2022.06.02.494541](https://doi.org/10.1101/2022.06.02.494541)
 {: reversed="reversed"}
 
