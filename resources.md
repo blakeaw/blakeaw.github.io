@@ -18,7 +18,8 @@ subtitle: Potentially helpful resources.
   * [BCL2DB](https://bcl2db.lyon.inserm.fr/BCL2DB/) - sequence, structural, and functional data for Bcl-2 and BH3 containing proteins (involved for example in mitochondrial apoptosis regulation)
   * [STRING](https://string-db.org/) - Protein-protein interaction networks and functional enrichment analysis.
   * [BindingDB](https://www.bindingdb.org/bind/index.jsp) - binding affinities for proteins and drug-like molecules
-  * [Human Protein Atlas](https://www.proteinatlas.org/) - data on the human proteome
+  * [Human Protein Atlas](https://www.proteinatlas.org/) - data on the human proteome.
+  * [SuPepMem](https://supepmem.com/) - molecular dynamics simulations of peptides interacting with membranes, including input files, trajectories, and some analysis outputs.  
 * Small molecules (drugs and other biologically relevant molecules):
   * [ChEBI](https://www.ebi.ac.uk/chebi/init.do) - small chemicals of biological interest
   * [NeuroPep](http://isyslab.info/NeuroPep/) - information on neuropeptides
@@ -47,7 +48,7 @@ subtitle: Potentially helpful resources.
   * [GROMACS](https://www.gromacs.org/) - classical molecular dynamics simulator and analysis
   * [NAMD](https://www.ks.uiuc.edu/Research/namd/) - classical molecular dynamics simulator targeted to biomolecular systems
   * [VMD](https://www.ks.uiuc.edu/Research/vmd/) - molecular visualization and analysis
-  * [CHARMM-GUI](https://www.charmm-gui.org/) - molecular dynamics simulation system construction and input generation
+  * [CHARMM-GUI](https://www.charmm-gui.org/) - molecular dynamics simulation system construction and input generation.
   * [CaFE](https://github.com/HuiLiuCode/CaFE_Plugin) - plugin for VMD providing an interface for MM/PBSA analysis to compute binding free energies
   * [APBS](https://www.poissonboltzmann.org/) - Adaptive Poisson-Boltzmann Solver for MM/PBSA calculations
   * [MDAnalysis](https://www.mdanalysis.org/) - Python library for molecular dynamics simulation analysis
@@ -63,6 +64,7 @@ subtitle: Potentially helpful resources.
   * [PySB](https://pysb.org/) - rules-based reaction network model specification and simulation using the Python programming language (ODE or SDE models)
   * [BioNetGen](https://bionetgen.org/) - rules-based reaction network model specification and simulation (ODE or SDE models)
   * [SBML](https://synonym.caltech.edu/) - reaction network model specification
-  * [Smoldyn](https://www.smoldyn.org/) - particle-based spatial stochastic simulation of reaction networks
-  * [NEURON](https://www.neuron.yale.edu/neuron/) - reaction-diffusion models and simulation (geared towards computational models of neurons and can be used as a Python library)
+  * [Smoldyn](https://www.smoldyn.org/) - particle-based spatial stochastic simulation of diffusion and reaction networks. 
+  * [NEURON](https://www.neuron.yale.edu/neuron/) - spatial reaction-diffusion simulations (PDE for diffusion plus ODE for reactions) - this package is geared towards developing computational models of neurons, but can be used more generally for reaction-diffusion simulations. It also has a nice extracellular space simulator that incorporates volume fraction and tortuosity. And it can be used as a Python library.
   * [Catalyst.jl](https://juliapackages.com/p/catalyst) -  reaction network model specification and generation using the Julia programming language (ODE, SDE, or jump models)
+  * [MCell](https://mcell.org/) - particle-based spatial stochastic simulation of diffusion and reaction networks.
