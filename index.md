@@ -46,11 +46,13 @@ Visit [PUBLICATIONS](https://blakeaw.github.io/publications/) to view a full lis
 ------
 #### Upcoming conferences
 
-* [WCB 2022](https://www.wcb2022.com/) (virtual)
-  * Abstract 14603 (poster): "Quantitative analysis of PAR2 signaling by receptor photoinactivation with molecular hyperthermia"
+* [TACCSTER](https://www.tacc.utexas.edu/taccster-2022) (in-person), Sept. 2022
+  * Poster: "Atomistic simulations provide mechanistic insight into heat transfer across nanoscale interfaces between gold and water"
 
 ------
 #### Recent conferences
+* [WCB 2022](https://www.wcb2022.com/) (virtual), July 2022
+  * Poster (Abstract 14603: "Quantitative analysis of PAR2 signaling by receptor photoinactivation with molecular hyperthermia"
 
-* [SB3C 2022](https://sb3c.org/) (in-person)
-  * Abstract 426 (poster): "Mathematical Modeling Of PAR2 Signaling And Receptor Photoinactivation With Molecular Hyperthermia
+* [SB3C 2022](https://sb3c.org/) (in-person), June 2022
+  * Poster (Abstract 426): "Mathematical Modeling Of PAR2 Signaling And Receptor Photoinactivation With Molecular Hyperthermia
