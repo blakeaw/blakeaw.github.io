@@ -21,6 +21,7 @@ subtitle: Academic publications.
 
 ### Preprints
 
+0. Jonghae Youn, Peiyuan Kang, __Blake A Wilson__, Chen Xie, Lokesh Basavarajappa, Qingxiao Wang, Moon Kim, Kenneth Hoyt, and Zhenpeng Qin (2022) Significantly amplified photoacoustic effect for silica-coated gold nanoparticles by interface heat transfer mechanisms, bioRxiv, [DOI:10.1101/2022.09.28.509922](https://doi.org/10.1101/2022.09.28.509922)
 0. Xiaoqing Li, Qi Cai, __Blake A. Wilson__, Hanwen Fan, Monica Giannotta, Robert Bachoo, and Zhenpeng Qin (2022) Calcium-Mediated Modulation of Blood-Brain Barrier Permeability by Laser Stimulation of Endothelial-Targeted Nanoparticles, bioRxiv, [DOI:10.1101/2022.06.02.494541](https://doi.org/10.1101/2022.06.02.494541)
 0. Oscar O. Ortega, __Blake A. Wilson__, James C. Pino, Michael W. Irvin, Geena V. Ildefonso, Shawn P. Garbett, and Carlos F. Lopez (2021)
 Probability-based mechanisms in biological networks with parameter uncertainty, bioRxiv, [DOI:10.1101/2021.01.26.428266](https://doi.org/10.1101/2021.01.26.428266)
