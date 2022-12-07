@@ -18,6 +18,7 @@ subtitle: Research conference and symposia presentations.
 
 0. Poster: Insight into the effects of tetralinoleoyl cardiolipin in mitochondrial membranes from all-atom molecular dynamics simulations, Department of Biochemistry Symposium, Vanderbilt University, Nashville, TN, 2018.
 0. Poster: Molecular simulation reveals a weak correlation between local curvature and cardiolipin in mitochondrial outer membrane-like lipid bilayers, 12th Meeting on Cell Death, Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, Aug. 2017.
+{: reversed="reversed"}
 
 ### As a Ph.D. Student at UT Dallas
 
@@ -29,9 +30,11 @@ subtitle: Research conference and symposia presentations.
 0. Poster: Computational study of surface assembly of anisotropic nanoparticle dimers, 247th American Chemical Society National Meeting, Dallas, TX, Mar. 2014. (Chosen for Sci-Mix).
 0. Poster: Computational study of surface assembly of anisotropic nanoparticle dimers using Nested Sampling, 69th American Chemical Society Southwest Regional Meeting, Waco, TX, 2013.
 0. Oral: A Molecular Dynamics Investigation of Single Walled Carbon Nanotube Dispersion by Surfactant Peptides, 45th American Chemical Society Dallas-Fort Worth Meeting in Miniature, Irving, TX, 2012.
+{: reversed="reversed"}
 
 ### As an undergraduate researcher
 
 0. Poster: Molecular Dynamics Simulations of Nanoparticles at Oil/Water Interfaces, University of Texas System Louis Stokes Alliance for Minority Participation (LSAMP) Student Research Conference, El Paso, TX, 2010.
 0. Poster: Electroless Synthesis of Silver Fractals On Silicon for Surface Enhanced Fluorescence Measurements, 239th American Chemical Society National Meeting, San Francisco, CA, Mar. 2010.
 0. Poster: Electroless Synthesis of Silver Fractals On Silicon for Surface Enhanced Fluorescence Measurements, University of Texas System Louis Stokes Alliance for Minority Participation (LSAMP) Student Research Conference, Austin, TX, 2009.
+{: reversed="reversed"}
