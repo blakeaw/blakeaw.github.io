@@ -23,6 +23,7 @@ navbar-links:
   About: "aboutme"
   Portfolio:
      - Publications: "publications"
+     - Conference Presentations: "conferences"
      - Models: "models"
      - Software: "software"
      - Logo Designs: "logos"
