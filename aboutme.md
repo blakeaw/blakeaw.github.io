@@ -10,25 +10,26 @@ subtitle: A little bit about me.
 
  1. [Bio](#bio)
  2. [Education](#education)
- 3. [Technical Skills](#technical-skills)
- 4. [Professional Experience](#professional-experience)
- 5. [Internship Experience](#intership-experience)
- 6. [Other Interests](#other-interests)  
+ 3. [Professional Experience](#professional-experience)
+ 4. [Internship Experience](#intership-experience)
+ 5. [Other Interests](#other-interests)  
 
 ------
 ## Bio
-Hey there, I’m Blake - a computational scientist and <span style="color:green">*tea drinker*</span>.
+Hey there, I’m Blake - a computational research scientist and <span style="color:green">*tea drinker*</span>.
 
 
-I received my BS in Chemistry from The University of Texas at Tyler with a minor in Physics. As a first-generation college student, I had the opportunity to participate in undergraduate research through the Louis Stokes Alliance for Minority Participation. That seminal experience introduced me to academic research and ultimately lead to me deciding to go on to graduate school to pursue research as the next step in my journey. <span style="color:green">*(I would occasionally have some tea to get a caffeine boost.)*</span>
+I received my BS in Chemistry from The University of Texas at Tyler with a minor in Physics. As a first-generation college student, I had the opportunity to participate in undergraduate research through the Louis Stokes Alliance for Minority Participation. That seminal experience introduced me to academic research and ultimately lead to me deciding to go on to graduate school to pursue PhD and as the next step in my educational journey. <span style="color:green">*(I would occasionally have some tea to get a caffeine boost.)*</span>
 
-I then obtained my PhD in Chemistry from The University of Texas at Dallas under the advisement of Steven O. Nielsen, which set me up with a solid foundation in theoretical/computational physical chemistry. <span style="color:green"> *(This was the time where the seeds of tea drinking started to take root and began to sprout.)*</span>
+I then obtained my PhD in Chemistry from The University of Texas at Dallas under the advisement of Dr. Steven O. Nielsen ([Molecular Simulation Lab](https://personal.utdallas.edu/~son051000/)), which set me up with a solid foundation in theoretical/computational physical chemistry with an emphasis on modeling interfaces and a particular focus on developing free energy simulation methods. <span style="color:green"> *(This was the time where the seeds of tea drinking started to take root and began to sprout.)*</span>
 
-Afterward, I went on to do postdoctoral work at Vanderbilt University under the supervision of Carlos F. Lopez, which provided me with new experience in computational systems biology. <span style="color:green"> *(It was during this period that my passion for tea really began to blossom.)*</span>
+I spent the final summer of my PhD at Oak Ridge National Lab as a Graduate Student Intern in the ASTRO program and under the supervision of Dr. Arvind Ramanathan ([AR Lab](https://ramanathanlab.org/), now at Argonne National Lab), which was a great learning experience and helped me further hone my skills in developing molecular simulation workflows for high-performance computing systems and corresponding analysis tools in Python.  <span style="color:green"> *(Unfortunately, I didn't drink quite as much tea during this whirlwind period.)*</span>
 
-After finishing my postdoc at Vanderbilt I then moved back to the Dallas area and worked briefly as an independent contractor developing a research software tool to train and compare biological models of cell signaling pathways. During this time I also ended up taking a part-time research position in the [Nano-Thermal Bioengineering Lab](https://www.nanobrainlab.net/) at [UT Dallas](https://www.utdallas.edu/), which ultimately lead to a full-time postdoc appointment. <span style="color:green"> *(Since my work was only part-time I really had time to enjoy my tea sessions, which then allowed me to delve even more into the practice of Gong Fu brewing.)*</span>
+Afterward, I went on to do postdoctoral work at Vanderbilt University under the supervision of Dr. Carlos F. Lopez ([Lopez Lab](https://my.vanderbilt.edu/lopezlab/), now at Altos Labs), which provided me with new experience in computational systems biology with an emphasis on mechanistic and multiscale modeling approaches to studying cancer biology. <span style="color:green"> *(It was during this period that my passion for tea really began to blossom.)*</span>
 
-Currently, I am working as a post-doctoral Research Associate in the [Nano-Thermal Bioengineering Lab](https://www.nanobrainlab.net/) at [UT Dallas](https://www.utdallas.edu/) under the supervision of Dr. Zhenpeng Qin.  <span style="color:green"> *(I'm still exploring the world of tea, and I squeeze in some time every now and again to savor my brews.)*</span>
+After finishing my postdoc at Vanderbilt I then moved back to the Dallas area and worked briefly as an independent contractor developing a research software tool to train and compare biological models of cell signaling pathways. During this time I also ended up taking a part-time research position in Dr. Zhenpeng Qin's lab ([Nano-Thermal Bioengineering Lab](https://www.nanobrainlab.net/)) at [UT Dallas](https://www.utdallas.edu/), which ultimately lead to a full-time postdoc appointment. <span style="color:green"> *(Since my work was only part-time I really had time to enjoy my tea sessions, which then allowed me to delve even more into the practice of Gong Fu brewing.)*</span>
+
+Currently, I am working as a post-doctoral Research Associate under the supervision of Dr. Zhenpeng Qin ([Nano-Thermal Bioengineering Lab](https://www.nanobrainlab.net/)) at [UT Dallas](https://www.utdallas.edu/) under the supervision of Dr. Zhenpeng Qin studying molecular hyperthermia and diffusion in the brain.  <span style="color:green"> *(I'm still exploring the world of tea, and I squeeze in some time every now and again to savor my brews.)*</span>
 
 ------
 ## Education
@@ -39,33 +40,6 @@ Currently, I am working as a post-doctoral Research Associate in the [Nano-Therm
 - **B.S.** in Chemistry
   - 2011, The University of Texas at Tyler
     - American Chemical Society Certified    
-
-------
-## Technical Skills
-
-#### Programming
-
-**Scientific computing:** ![Python](https://img.shields.io/badge/Python-proficient-success) ![C/C++](https://img.shields.io/badge/C/C++-intermediate-yellowgreen) ![Fortran](https://img.shields.io/badge/Fortran-novice-yellow) ![Julia](https://img.shields.io/badge/Julia-novice-yellow)
-
-**Markup:** ![Latex](https://img.shields.io/badge/LaTex-proficient-success) ![md](https://img.shields.io/badge/markdown-proficient-success) ![HTML](https://img.shields.io/badge/HTML-intermediate-yellowgreen)
-
-**Version control:** ![git](https://img.shields.io/badge/git-proficient-success)
-![GitHub](https://img.shields.io/badge/GitHub-proficient-success)
-
-#### Models and Simulation
-
-**atomistic/molecular simulation:** ![molecular dynamics](https://img.shields.io/badge/molecular%20dynamics-proficient-success) ![MonteCarlo](https://img.shields.io/badge/Monte%20Carlo-proficient-success)
-![FreeEnergy](https://img.shields.io/badge/Free%20Energy%20Methods-proficient-success)
-
-**statistical models:** ![MachineLearning](https://img.shields.io/badge/Machine%20Learning-intermediate-yellowgreen)
-![NetworkAnalysis](https://img.shields.io/badge/Network%20Analysis-intermediate-yellowgreen)
-![InfoTheory](https://img.shields.io/badge/Information%20Theoretics-intermediate-yellowgreen)
-
-**mechanistic models:** ![parameterestimation](https://img.shields.io/badge/parameter%20estimation-proficient-success)
-![modelselection](https://img.shields.io/badge/model%20selection-proficient-success)
-![ODEs](https://img.shields.io/badge/ordinary%20differential%20equations-proficient-success)
-![PDEs](https://img.shields.io/badge/partial%20differential%20equations-intermediate-yellowgreen)
-![SDEs](https://img.shields.io/badge/stochastic%20models-intermediate-yellowgreen)
 
 ------
 ## Professional Experience

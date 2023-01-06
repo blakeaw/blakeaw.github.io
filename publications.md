@@ -6,7 +6,7 @@ subtitle: Academic publications.
 
 ### Submitted or Under Review
 
-  * **Submitted:** Hejian Xiong, __Blake A. Wilson__, Paul A. Slesinger, Zhenpeng Qin, Optical uncaging and release for understanding neuropeptide transmission in the brain.
+  * **Under Review:** Hejian Xiong, __Blake A. Wilson__, Paul A. Slesinger, Zhenpeng Qin, Optical uncaging and release for understanding neuropeptide transmission in the brain.
   * **Under Review:** Jonghae Youn, Peiyuan Kang, __Blake A Wilson__, Chen Xie, Lokesh Basavarajappa, Qingxiao Wang, Moon Kim, Kenneth Hoyt, and Zhenpeng Qin, Significantly amplified photoacoustic effect for silica-coated gold nanoparticles by interface heat transfer mechanisms.
   * **Under Review:** Xiaoqing Li, Qi Cai, __Blake A. Wilson__, Hanwen Fan, Monica Giannotta, Robert Bachoo, and Zhenpeng Qin, Calcium-Mediated Modulation of Blood-Brain Barrier Permeability by Laser Stimulation of Endothelial-Targeted Nanoparticles
 

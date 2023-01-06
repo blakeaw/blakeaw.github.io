@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blake A. Wilson, PhD
-subtitle: Computational scientist & tea drinker.
+subtitle: Computational research scientist & tea drinker.
 use-site-title: true
 bigimg:
     - "/img/big-img/BioJ_CL_CoverArt_darkened.png" : "Biophys. J. cover art"
@@ -23,7 +23,7 @@ bigimg:
 ---
 ### Welcome
 
-Hey there, I’m Blake - a computational scientist with experience building models, running simulations, and performing data analysis in areas including nanomaterials, biophysics, and cell signaling. I have a penchant for computational methods and programming which tends to bias me towards (research) projects which either focus on or require the design of new computational tools to aid in modeling, simulation, and analysis. I also drink a lot of tea!
+Hey there, I’m Blake - a computational research scientist with experience building models, running simulations, and performing data analysis in areas including nanomaterials, biophysics, and cell signaling. I have a penchant for computational methods and programming which tends to bias me towards (research) projects which either focus on or require the design of new computational tools to aid in modeling, simulation, and analysis. I also drink a lot of tea!
 
 Currently, I'm a (postdoctoral) Research Associate in the [Nano-Thermal Bioengineering Lab (NT-BEL)](https://www.nanobrainlab.net/) at [UT Dallas](https://www.utdallas.edu/). I provide computational support including modeling and data analysis to a variety of projects in the lab, but my principal focus has been on studying [molecular hyperthermia](https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.201700841) and diffusion in the brain extracellular space. I use a variety of modeling and simulation methods including molecular dynamics simulation, rules-based ODE models, and reaction-diffusion modeling along with data and image analysis methods to help better understand and characterize these phenomena.
 
