@@ -6,11 +6,11 @@ subtitle: Academic publications.
 
 ### Submitted or Under Review
 
-  * **Under Review:** Hejian Xiong, __Blake A. Wilson__, Paul A. Slesinger, Zhenpeng Qin, Optical uncaging and release for understanding neuropeptide transmission in the brain.
   * **Under Review:** Jonghae Youn, Peiyuan Kang, __Blake A Wilson__, Chen Xie, Lokesh Basavarajappa, Qingxiao Wang, Moon Kim, Kenneth Hoyt, and Zhenpeng Qin, Significantly amplified photoacoustic effect for silica-coated gold nanoparticles by interface heat transfer mechanisms.
 
 ### Peer-reviewed Publications
 
+0. Hejian Xiong, __Blake A. Wilson__, Paul A. Slesinger, Zhenpeng Qin, Optical uncaging and release for understanding neuropeptide transmission in the brain, ACS Chem. Neurosci., *In press*.
 0. Xiaoqing Li, Qi Cai, __Blake A. Wilson__, Hanwen Fan, Harsh Dave, Monica Giannotta, Robert Bachoo, and Zhenpeng Qin (2023) Calcium-Mediated Modulation of Blood-Brain Barrier Permeability by Laser Stimulation of Endothelial-Targeted Nanoparticles, Nanoscale, *In press*.
 0. __Blake A. Wilson__, Steven O. Nielsen, Jaona H. Randrianalisoa, and Zhenpeng Qin (2022) Curvature and temperature-dependent thermal interface conductance between nanoscale gold and water, J. Chem. Phys. 157, 054703; [DOI:10.1063/5.0090683](https://doi.org/10.1063/5.0090683)
 0. Hejian Xiong, Emre Lacin, Hui Ouyang, Aditi Naik, Xueqi Xu, Chen Xie, Jonghae Youn, __Blake A. Wilson__, Krutin Kumar, Tyler Kern, Erin Aisenberg, Daniel Kircher, Xiuying Li, Joseph A. Zasadzinski, Celine Mateo, David Kleinfeld, Sabina Hrabetova, Paul A. Slesinger, Zhenpeng Qin (2022) Probing Neuropeptide Volume Transmission In Vivo by Simultaneous Near-Infrared Light Triggered Release and Optical Sensing, Angew. Chem., e202206122; [DOI:10.1002/anie.202206122](https://doi.org/10.1002/anie.202206122)
