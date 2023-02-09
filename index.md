@@ -27,7 +27,7 @@ Hey there, I’m Blake - a computational research scientist with experience buil
 
 Currently, I'm a (postdoctoral) Research Associate in the [Nano-Thermal Bioengineering Lab (NT-BEL)](https://www.nanobrainlab.net/) at [UT Dallas](https://www.utdallas.edu/). I provide computational support including modeling and data analysis to a variety of projects in the lab, but my principal focus has been on studying [molecular hyperthermia](https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.201700841) and diffusion in the brain extracellular space. I use a variety of modeling and simulation methods including molecular dynamics simulation, rules-based ODE models, and reaction-diffusion modeling along with data and image analysis methods to help better understand and characterize these phenomena.
 
-[![Current](https://img.shields.io/badge/Research%20Associate-2019--Present-blueviolet?style=social)](aboutme#professional-experience)
+[![Current](https://img.shields.io/badge/Research%20Associate%20@%20UT%20Dallas-2019--Present-blueviolet?style=social)](aboutme#professional-experience)
 [![PhD](https://img.shields.io/badge/Ph.D.-Chemistry-blue?style=social)](aboutme#education)
 
 [![CV](https://img.shields.io/badge/Download-my%20CV-lightgrey?style=for-the-badge)](https://drive.google.com/file/d/1JCpTAaTp_cIA0VEb8G9surkjtIyj9ZUJ/view?usp=sharing) [![LearnMore](https://img.shields.io/badge/Learn%20More-About%20Me-lightgrey?style=for-the-badge)](aboutme.md) [![LearnMore](https://img.shields.io/badge/Learn%20More-About%20NT--BEL's%20Research-lightgrey?style=for-the-badge)](https://www.nanobrainlab.net/research-areas)
@@ -35,11 +35,13 @@ Currently, I'm a (postdoctoral) Research Associate in the [Nano-Thermal Bioengin
 ------
 #### Recent Work
 
-0. **Peer-reviewed Perspective:** (2023) Hejian Xiong, <u>Blake A. Wilson</u>, Paul A. Slesinger, Zhenpeng Qin, Optical uncaging and release for understanding neuropeptide transmission in the brain, ACS Chem. Neurosci., *In press*.
-0. **Peer-reviewed Journal Article:** (2023) Xiaoqing Li, Qi Cai, <u>Blake A Wilson</u>, Hanwen Fan, Harsh Dave, Monica Giannotta, Robert Bachoo, and Zhenpeng Qin, Calcium-Mediated Modulation of Blood-Brain Barrier Permeability by Laser Stimulation of Endothelial-Targeted Nanoparticles, Nanoscale, *In press*.
-0. **Preprint:** (2022) Jonghae Youn, Peiyuan Kang, <u>Blake A Wilson</u>, Chen Xie, Lokesh Basavarajappa, Qingxiao Wang, Moon Kim, Kenneth Hoyt, and Zhenpeng Qin, Significantly amplified photoacoustic effect for silica-coated gold nanoparticles by interface heat transfer mechanisms, bioRxiv, [DOI:10.1101/2022.09.28.509922](https://doi.org/10.1101/2022.09.28.509922)
-0. **Peer-reviewed Journal Article:** (2022) <u>Blake A Wilson</u>, Steven O Nielsen, Jaona H Randrianalisoa, and Zhenpeng Qin, Curvature and temperature-dependent thermal interface conductance between nanoscale gold and water, J. Chem. Phys. 157, 054703; [DOI:10.1063/5.0090683](https://doi.org/10.1063/5.0090683)
-0. **Peer-reviewed Journal Article:** (2022) Hejian Xiong, Emre Lacin, Hui Ouyang, Aditi Naik, Xueqi Xu, Chen Xie, Jonghae Youn, <u>Blake A. Wilson</u>, Krutin Kumar, Tyler Kern, Erin Aisenberg, Daniel Kircher, Xiuying Li, Joseph A. Zasadzinski, Celine Mateo, David Kleinfeld, Sabina Hrabetova, Paul A. Slesinger, and Zhenpeng Qin, Probing Neuropeptide Volume Transmission In Vivo by Simultaneous Near-Infrared Light Triggered Release and Optical Sensing, Angew. Chem., e202206122; [DOI:10.1002/anie.202206122]( https://doi.org/10.1002/anie.202206122)
+0. **Perspective:** (2023) Hejian Xiong, <u>Blake A. Wilson</u>, Paul A. Slesinger, Zhenpeng Qin, Optical uncaging and release for understanding neuropeptide transmission in the brain, ACS Chem. Neurosci., *In press*.  
+  (*Special Issue on 'Monitoring Molecules in Neuroscience 2023'*)  
+  <https://doi.org/10.1021/acschemneuro.2c00684>
+0. **Journal Article:** (2023) Xiaoqing Li, Qi Cai, <u>Blake A. Wilson</u>, Hanwen Fan, Harsh Dave, Monica Giannotta, Robert Bachoo, and Zhenpeng Qin, Calcium-Mediated Modulation of Blood-Brain Barrier Permeability by Laser Stimulation of Endothelial-Targeted Nanoparticles, Nanoscale, *In press*.  
+  <https://doi.org/10.1039/D2NR05062E>
+0. **Preprint:** (2022) Jonghae Youn, Peiyuan Kang, <u>Blake A. Wilson</u>, Chen Xie, Lokesh Basavarajappa, Qingxiao Wang, Moon Kim, Kenneth Hoyt, and Zhenpeng Qin, Significantly amplified photoacoustic effect for silica-coated gold nanoparticles by interface heat transfer mechanisms, bioRxiv.  
+  <https://doi.org/10.1101/2022.09.28.509922>
 {: reversed="reversed"}
 
 Visit [PUBLICATIONS](https://blakeaw.github.io/publications/) to view a full list of publications.
