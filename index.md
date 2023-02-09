@@ -35,13 +35,9 @@ Currently, I'm a (postdoctoral) Research Associate in the [Nano-Thermal Bioengin
 ------
 #### Recent Work
 
-0. **Perspective:** (2023) Hejian Xiong, <u>Blake A. Wilson</u>, Paul A. Slesinger, Zhenpeng Qin, Optical uncaging and release for understanding neuropeptide transmission in the brain, ACS Chem. Neurosci., *In press*.  
-  (*Special Issue on 'Monitoring Molecules in Neuroscience 2023'*)  
-  <https://doi.org/10.1021/acschemneuro.2c00684>
-0. **Journal Article:** (2023) Xiaoqing Li, Qi Cai, <u>Blake A. Wilson</u>, Hanwen Fan, Harsh Dave, Monica Giannotta, Robert Bachoo, and Zhenpeng Qin, Calcium-Mediated Modulation of Blood-Brain Barrier Permeability by Laser Stimulation of Endothelial-Targeted Nanoparticles, Nanoscale, *In press*.  
-  <https://doi.org/10.1039/D2NR05062E>
-0. **Preprint:** (2022) Jonghae Youn, Peiyuan Kang, <u>Blake A. Wilson</u>, Chen Xie, Lokesh Basavarajappa, Qingxiao Wang, Moon Kim, Kenneth Hoyt, and Zhenpeng Qin, Significantly amplified photoacoustic effect for silica-coated gold nanoparticles by interface heat transfer mechanisms, bioRxiv.  
-  <https://doi.org/10.1101/2022.09.28.509922>
+0. **Perspective:** (2023) Hejian Xiong, <u>Blake A. Wilson</u>, Paul A. Slesinger, Zhenpeng Qin, Optical uncaging and release for understanding neuropeptide transmission in the brain, ACS Chem. Neurosci., *In press*. (*Special Issue on 'Monitoring Molecules in Neuroscience 2023'*) <https://doi.org/10.1021/acschemneuro.2c00684>
+0. **Journal Article:** (2023) Xiaoqing Li, Qi Cai, <u>Blake A. Wilson</u>, Hanwen Fan, Harsh Dave, Monica Giannotta, Robert Bachoo, and Zhenpeng Qin, Calcium-Mediated Modulation of Blood-Brain Barrier Permeability by Laser Stimulation of Endothelial-Targeted Nanoparticles, Nanoscale, *In press*. <https://doi.org/10.1039/D2NR05062E>
+0. **Preprint:** (2022) Jonghae Youn, Peiyuan Kang, <u>Blake A. Wilson</u>, Chen Xie, Lokesh Basavarajappa, Qingxiao Wang, Moon Kim, Kenneth Hoyt, and Zhenpeng Qin, Significantly amplified photoacoustic effect for silica-coated gold nanoparticles by interface heat transfer mechanisms, bioRxiv. <https://doi.org/10.1101/2022.09.28.509922>
 {: reversed="reversed"}
 
 Visit [PUBLICATIONS](https://blakeaw.github.io/publications/) to view a full list of publications.
