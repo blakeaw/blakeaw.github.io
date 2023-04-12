@@ -29,7 +29,7 @@ Afterward, I went on to do postdoctoral work at Vanderbilt University under the 
 
 After finishing my postdoc at Vanderbilt I then moved back to the Dallas area and worked briefly as an independent contractor developing a research software tool to train and compare biological models of cell signaling pathways. During this time I also ended up taking a part-time research position in Dr. Zhenpeng Qin's lab ([Nano-Thermal Bioengineering Lab](https://www.nanobrainlab.net/)) at [UT Dallas](https://www.utdallas.edu/), which ultimately lead to a full-time postdoc appointment. <span style="color:green"> *(Since my work was only part-time I really had time to enjoy my tea sessions, which then allowed me to delve even more into the practice of Gong Fu brewing.)*</span>
 
-Currently, I am working as a post-doctoral Research Associate under the supervision of Dr. Zhenpeng Qin ([Nano-Thermal Bioengineering Lab](https://www.nanobrainlab.net/)) at [UT Dallas](https://www.utdallas.edu/) under the supervision of Dr. Zhenpeng Qin studying molecular hyperthermia and diffusion in the brain.  <span style="color:green"> *(I'm still exploring the world of tea, and I squeeze in some time every now and again to savor my brews.)*</span>
+I then spent a few years working as a post-doctoral Research Associate under the supervision of Dr. Zhenpeng Qin ([Nano-Thermal Bioengineering Lab](https://www.nanobrainlab.net/)) at [UT Dallas](https://www.utdallas.edu/) under the supervision of Dr. Zhenpeng Qin studying molecular hyperthermia and diffusion in the brain.  <span style="color:green"> *(I still explored the world of tea, and tried to squeeze in some time every now and again to savor my brews.)*</span>
 
 ------
 ## Education
@@ -44,9 +44,9 @@ Currently, I am working as a post-doctoral Research Associate under the supervis
 ------
 ## Professional Experience
 ![Current](https://img.shields.io/badge/2019--Current-Research%20Associate-blueviolet?style=flat-square) ![](https://img.shields.io/badge/2019-Research%20Software%20Developer%20and%20Consultant-blueviolet?style=flat-square) ![](https://img.shields.io/badge/2016--2019-Postdoctoral%20Researcher-blueviolet?style=flat-square)
-- **Research Associate** (postdoctoral), 2019-Current
+- **Research Associate** (postdoctoral), 2019-2023
   - The University of Texas at Dallas
-    - Full time, 2020-Current
+    - Full time, 2020-2023
     - Part time, 2019-2020 (7 mos)  
     - Dept. of Mechanical Engineering
     - Lab of Zhenpeng Qin ([Lab Page](https://www.nanobrainlab.net/))      
