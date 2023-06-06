@@ -69,6 +69,10 @@ I then spent a few years working as a post-doctoral Research Associate under the
 ------
 ## Other Interests
 
-I'm an avid tea drinker (as you probably already gathered), so much so that I run a separate blog dedicated to my tea enthusiam: [Blake's Tea Journal](https://blakesteajournal.blog).
+I'm an avid tea drinker (as you probably already gathered), currently struggling to use up my current stash of teas before buying any new ones; I especially like the experience of trying new teas, so this is difficult for me.
 
-I also dabble in the arts. The ones that have stuck the most are soft pastels and pencil/charcoal sketching.
+I enjoy hiking, which I've been doing a lot more of during my career break. I'm currenlty making an effort to visit various Texas State Parks and day hike their trails. 
+
+I enjoy reading fiction, incuding science-fiction, fantasy, and detective stories. I've been particularly into Sherlock Holmes over the past few years, reading the full Conan Doyle canon and many pastiches in the extended world of Holmes fiction. However, I recently ventured into the world of Poirot (Agatha Christie) to further explore the wider world of detective fiction. 
+
+I also dabble in the arts, and particularly enjoy pencil/charcoal sketching and soft pastel painting. 
