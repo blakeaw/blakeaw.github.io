@@ -4,6 +4,34 @@ title: Software
 subtitle: A selection of software contributions.
 ---
 
+The software below is only a selection of my software contributions. Additional software contributions can be found on my GitHub account page, [github.com/blakeaw](https://github.com/blakeaw), as well as the [NTBEL](https://github.com/NTBEL) and [LoLab-MSM](https://github.com/LoLab-MSM) GitHub organizations. 
+
+------
+------
+
+#### pysb-pkpd
+
+* **Type:** Scientific/Research Software
+* **Language:** Python
+* **GitHub Repo:** [blakeaw/pysb-pkpd](https://github.com/blakeaw/pysb-pkpd)
+
+###### Description
+**pysb-pkpd** is an add-on for the PySB modeling framework that provides domain-specific macros and pre-constructed models for empirical and mechanistic PK/PD modeling.
+
+------
+
+#### diffusion-fit
+
+* **Type:** Scientific/Research Software
+* **Language:** Python
+* **GitHub Repo:** [NTBEL/diffusion-fit](https://github.com/NTBEL/diffusion-fit)
+
+###### Description
+**diffusion-fit** is a python package that defines models to fit the 2D fluorescence intensity distribution in a time lapse series of fluorescence microscope images and extract estimates of a diffusion coeffient using a point-source paradigm.
+
+------
+
+
 #### PyBILT
 
 [<img width="100" height="100" src="https://raw.githubusercontent.com/LoLab-VU/PyBILT/master/_images/PyBILT_logo.png">](https://github.com/LoLab-VU/PyBILT)
