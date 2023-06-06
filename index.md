@@ -27,7 +27,7 @@ Hey there, I’m Blake - a computational research scientist with experience buil
 
 Currently, I'm taking a short career break while considering next career steps and job opportunities.  
 
-I recently exited a (postdoctoral) Research Associate position in the [Nano-Thermal Bioengineering Lab (NT-BEL)](https://www.nanobrainlab.net/) at [UT Dallas](https://www.utdallas.edu/). While there I provided computational support including modeling and data analysis to a variety of projects in the lab, but my principal focus was on studying [molecular hyperthermia](https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.201700841) and diffusion in the brain extracellular space. I used a variety of modeling and simulation methods including molecular dynamics simulation, rules-based ODE models, and reaction-diffusion modeling along with data and image analysis methods to help better understand and characterize these phenomena.
+I recently completed a term as a (postdoctoral) Research Associate in the [Nano-Thermal Bioengineering Lab (NT-BEL)](https://www.nanobrainlab.net/) at [UT Dallas](https://www.utdallas.edu/). While there I provided computational support including modeling and data analysis to a variety of projects in the lab, but my principal focus was on studying [molecular hyperthermia](https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.201700841) and diffusion in the brain extracellular space. I used a variety of modeling and simulation methods including molecular dynamics simulation, rules-based ODE models, and reaction-diffusion modeling along with data and image analysis methods to help better understand and characterize these phenomena.
 
 [![Most Recent](https://img.shields.io/badge/Research%20Associate%20@%20UT%20Dallas-2019--2023-blueviolet?style=social)](aboutme#professional-experience)
 [![PhD](https://img.shields.io/badge/Ph.D.-Chemistry-blue?style=social)](aboutme#education)
@@ -37,8 +37,9 @@ I recently exited a (postdoctoral) Research Associate position in the [Nano-Ther
 ------
 #### Recent Work
 
-0. **Perspective:** (2023) Hejian Xiong, <u>Blake A. Wilson</u>, Paul A. Slesinger, Zhenpeng Qin, Optical uncaging and release for understanding neuropeptide transmission in the brain, ACS Chem. Neurosci., *In press*. (*Special Issue on 'Monitoring Molecules in Neuroscience 2023'*) <https://doi.org/10.1021/acschemneuro.2c00684>
-0. **Journal Article:** (2023) Xiaoqing Li, Qi Cai, <u>Blake A. Wilson</u>, Hanwen Fan, Harsh Dave, Monica Giannotta, Robert Bachoo, and Zhenpeng Qin, Calcium-Mediated Modulation of Blood-Brain Barrier Permeability by Laser Stimulation of Endothelial-Targeted Nanoparticles, Nanoscale, *In press*. <https://doi.org/10.1039/D2NR05062E>
+0. **Preprint:** (2023) Chen Xie, <u>Blake Wilson</u>, and Zhenpeng Qin, Regulating nanoscale heat transfer with Janus nanopartilces, arXiv. <https://doi.org/10.48550/arXiv.2305.17270>
+0. **Perspective:** (2023) Hejian Xiong, <u>Blake A. Wilson</u>, Paul A. Slesinger, Zhenpeng Qin, Optical uncaging and release for understanding neuropeptide transmission in the brain, ACS Chem. Neurosci., 14, 4, 516-523. (*Special Issue on 'Monitoring Molecules in Neuroscience 2023'*) <https://doi.org/10.1021/acschemneuro.2c00684>
+0. **Journal Article:** (2023) Xiaoqing Li, Qi Cai, <u>Blake A. Wilson</u>, Hanwen Fan, Harsh Dave, Monica Giannotta, Robert Bachoo, and Zhenpeng Qin, Calcium-Mediated Modulation of Blood-Brain Barrier Permeability by Laser Stimulation of Endothelial-Targeted Nanoparticles, Nanoscale, 15, 3387-3397. <https://doi.org/10.1039/D2NR05062E>
 0. **Preprint:** (2022) Jonghae Youn, Peiyuan Kang, <u>Blake A. Wilson</u>, Chen Xie, Lokesh Basavarajappa, Qingxiao Wang, Moon Kim, Kenneth Hoyt, and Zhenpeng Qin, Significantly amplified photoacoustic effect for silica-coated gold nanoparticles by interface heat transfer mechanisms, bioRxiv. <https://doi.org/10.1101/2022.09.28.509922>
 {: reversed="reversed"}
 

@@ -4,14 +4,26 @@ title: Publications
 subtitle: Academic publications.
 ---
 
+------
+
+## Contents
+
+ 1. [Submitted/Under Review](#submitted-or-under-review)
+ 2. [Peer-reviewed Publications](#peer-reviewed-publications)
+ 3. [Preprints](#preprints)
+
+------ 
+
 ### Submitted or Under Review
 
-  * **Under Review:** Jonghae Youn, Peiyuan Kang, __Blake A. Wilson__, Chen Xie, Lokesh Basavarajappa, Qingxiao Wang, Moon Kim, Kenneth Hoyt, and Zhenpeng Qin, Significantly amplified photoacoustic effect for silica-coated gold nanoparticles by interface heat transfer mechanisms.
+  * N/A
+
+------
 
 ### Peer-reviewed Publications
 
-0. Hejian Xiong, __Blake A. Wilson__, Paul A. Slesinger, Zhenpeng Qin, Optical uncaging and release for understanding neuropeptide transmission in the brain, ACS Chem. Neurosci., *In press*. (*Special Issue on 'Monitoring Molecules in Neuroscience 2023'*) <https://doi.org/10.1021/acschemneuro.2c00684>
-0. Xiaoqing Li, Qi Cai, __Blake A. Wilson__, Hanwen Fan, Harsh Dave, Monica Giannotta, Robert Bachoo, and Zhenpeng Qin (2023) Calcium-Mediated Modulation of Blood-Brain Barrier Permeability by Laser Stimulation of Endothelial-Targeted Nanoparticles, Nanoscale, *In press*. <https://doi.org/10.1039/D2NR05062E>
+0. Hejian Xiong, __Blake A. Wilson__, Paul A. Slesinger, Zhenpeng Qin, Optical uncaging and release for understanding neuropeptide transmission in the brain, ACS Chem. Neurosci., 14, 4, 516-523. (*Special Issue on 'Monitoring Molecules in Neuroscience 2023'*) <https://doi.org/10.1021/acschemneuro.2c00684>
+0. Xiaoqing Li, Qi Cai, __Blake A. Wilson__, Hanwen Fan, Harsh Dave, Monica Giannotta, Robert Bachoo, and Zhenpeng Qin (2023) Calcium-Mediated Modulation of Blood-Brain Barrier Permeability by Laser Stimulation of Endothelial-Targeted Nanoparticles, Nanoscale, 15, 3387-3397. <https://doi.org/10.1039/D2NR05062E>
 0. __Blake A. Wilson__, Steven O. Nielsen, Jaona H. Randrianalisoa, and Zhenpeng Qin (2022) Curvature and temperature-dependent thermal interface conductance between nanoscale gold and water, J. Chem. Phys. 157, 054703. <https://doi.org/10.1063/5.0090683>
 0. Hejian Xiong, Emre Lacin, Hui Ouyang, Aditi Naik, Xueqi Xu, Chen Xie, Jonghae Youn, __Blake A. Wilson__, Krutin Kumar, Tyler Kern, Erin Aisenberg, Daniel Kircher, Xiuying Li, Joseph A. Zasadzinski, Celine Mateo, David Kleinfeld, Sabina Hrabetova, Paul A. Slesinger, Zhenpeng Qin (2022) Probing Neuropeptide Volume Transmission In Vivo by Simultaneous Near-Infrared Light Triggered Release and Optical Sensing, Angew. Chem., e202206122. <https://doi.org/10.1002/anie.202206122>
 0. Peiyuan Kang, Yang Wang, __Blake A. Wilson__, Jaona Randrianalisoa, and Zhenpeng Qin (2021) Nanoparticle fragmentation below the melting point under single picosecond laser pulse stimulation, J. Phys. Chem. C, 125, 48, 26718-26730. <https://doi.org/10.1021/acs.jpcc.1c06684>
@@ -24,11 +36,12 @@ subtitle: Academic publications.
 0. R. J. K. Udayana Ranatunga, Chuong T. Nguyen, __Blake A. Wilson__, Wataru Shinoda, and Steven O. Nielsen (2011) Molecular dynamics study of nanoparticales and non-ionic surfactant at an oil water interface, Soft Matter, 7, 6942-6952. <https://doi.org/10.1039/C1SM05145H>
 {: reversed="reversed"}
 
+------
+
 ### Preprints
 
-0. Jonghae Youn, Peiyuan Kang, __Blake A. Wilson__, Chen Xie, Lokesh Basavarajappa, Qingxiao Wang, Moon Kim, Kenneth Hoyt, and Zhenpeng Qin (2022) Significantly amplified photoacoustic effect for silica-coated gold nanoparticles by interface heat transfer mechanisms, bioRxiv.  
-  <https://doi.org/10.1101/2022.09.28.509922>
+0. Chen Xie, __Blake Wilson__, and Zhenpeng Qin (2023) Regulating nanoscale heat transfer with Janus nanopartilces, arXiv. <https://doi.org/10.48550/arXiv.2305.17270>
+0. Jonghae Youn, Peiyuan Kang, __Blake A. Wilson__, Chen Xie, Lokesh Basavarajappa, Qingxiao Wang, Moon Kim, Kenneth Hoyt, and Zhenpeng Qin (2022) Significantly amplified photoacoustic effect for silica-coated gold nanoparticles by interface heat transfer mechanisms, bioRxiv. <https://doi.org/10.1101/2022.09.28.509922>
 0. Oscar O. Ortega, Mustafa Ozen, __Blake A. Wilson__, James C. Pino, Michael W. Irvin, Geena V. Ildefonso, Shawn P. Garbett, and Carlos F. Lopez (2022)
-Probability-based mechanisms in biological networks with parameter uncertainty, bioRxiv.  
-  <https://doi.org/10.1101/2021.01.26.428266>
+Probability-based mechanisms in biological networks with parameter uncertainty, bioRxiv. <https://doi.org/10.1101/2021.01.26.428266>
 {: reversed="reversed"}
