@@ -369,4 +369,4 @@ Source code images were generated using [carbon](https://carbon.now.sh/), and [G
 
 ### Computational Notebook Version
 
-This post was exported from a Jupyter IPython notebook, which is available at: https://github.com/blakeaw/blog-posts/blob/new-post/pysb-pkpd/notebooks/0001_pysb-pkpd/post.ipynb
+This post was exported from a Jupyter IPython notebook, which is available at: https://github.com/blakeaw/blog-posts/blob/new-post/pyjulia/notebooks/0002_mcpi-pyjulia/post.ipynb
