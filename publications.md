@@ -8,17 +8,21 @@ subtitle: Academic publications.
 
 ## Contents
 
- 1. [Submitted/Under Review](#submitted-or-under-review)
+ 1. [Preprints](#preprints)
  2. [Peer-reviewed Publications](#peer-reviewed-publications)
- 3. [Preprints](#preprints)
 
 ------ 
 
-### Submitted or Under Review
 
-  * N/A
+### Preprints
 
-------
+
+0. Hejian Xiong, __Blake A. Wilson__, Xiaoqian Ge, Xiaofei Gao, Qi Cai, Xueqi Xu, Robert Bachoo, and Zhenpeng Qin (2023) Glioblastoma Margin as a Diffusion Barrier Revealed by Photoactivation of Plasmonic Nanovesicles, bioRxiv. <https://doi.org/10.1101/2023.10.29.564569>
+0. Chen Xie, __Blake Wilson__, and Zhenpeng Qin (2023) Regulating nanoscale heat transfer with Janus nanopartilces, arXiv. <https://doi.org/10.48550/arXiv.2305.17270>
+0. Jonghae Youn, Peiyuan Kang, __Blake A. Wilson__, Chen Xie, Lokesh Basavarajappa, Qingxiao Wang, Moon Kim, Kenneth Hoyt, and Zhenpeng Qin (2022) Significantly amplified photoacoustic effect for silica-coated gold nanoparticles by interface heat transfer mechanisms, bioRxiv. <https://doi.org/10.1101/2022.09.28.509922>
+0. Oscar O. Ortega, Mustafa Ozen, __Blake A. Wilson__, James C. Pino, Michael W. Irvin, Geena V. Ildefonso, Shawn P. Garbett, and Carlos F. Lopez (2022)
+Probability-based mechanisms in biological networks with parameter uncertainty, bioRxiv. <https://doi.org/10.1101/2021.01.26.428266>
+{: reversed="reversed"}
 
 ### Peer-reviewed Publications
 
@@ -34,14 +38,4 @@ subtitle: Academic publications.
 0. David Speed, Paul Westerhoff, Reyes Sierra-Alvarez, Rockford Draper, Paul Pantano, Shyam Aravmudhan, Kai Loon Chen, Kiril Hristovski, Pierre Herckes, Xiangyu Bi, Yu Yang, Chao Zeng, Lila Otero-Gonzalez, Carole Mikoryak, __Blake A. Wilson__, Karshak Kosaraju, Mubin Tarannum, Steven Crawford, Peng Yi, Xitong Liu, S. V. Babu, Mansour Moinpour, James Ranville, Manuel Montano, Charlie Corredor, Jonathan Posner, and Farhang Shadman (2015) Physical, chemical, and in vitro toxicological characterization of nanoparticles in chemical mechanical planarization suspensions used in the semiconductor industry: towards environmental health and safety assessments, Environ. Sci.: Nano, 2, 227-244. <https://doi.org/10.1039/C5EN00046G>
 0. Jingbo Wu, __Blake A. Wilson__, Dennis W. Smith Jr., and Steven O. Nielsen (2014) Towards and understanding of structure-nonlinearity relationships in triarylamine-based push-pull eletro-optic chromophores: the influence of substituent and molecular conformation on molecular hyperpolarizabilities, J. Mater. Chem. C, 2, 2591-2599. <https://doi.org/10.1039/C3TC32510E>
 0. R. J. K. Udayana Ranatunga, Chuong T. Nguyen, __Blake A. Wilson__, Wataru Shinoda, and Steven O. Nielsen (2011) Molecular dynamics study of nanoparticales and non-ionic surfactant at an oil water interface, Soft Matter, 7, 6942-6952. <https://doi.org/10.1039/C1SM05145H>
-{: reversed="reversed"}
-
-------
-
-### Preprints
-
-0. Chen Xie, __Blake Wilson__, and Zhenpeng Qin (2023) Regulating nanoscale heat transfer with Janus nanopartilces, arXiv. <https://doi.org/10.48550/arXiv.2305.17270>
-0. Jonghae Youn, Peiyuan Kang, __Blake A. Wilson__, Chen Xie, Lokesh Basavarajappa, Qingxiao Wang, Moon Kim, Kenneth Hoyt, and Zhenpeng Qin (2022) Significantly amplified photoacoustic effect for silica-coated gold nanoparticles by interface heat transfer mechanisms, bioRxiv. <https://doi.org/10.1101/2022.09.28.509922>
-0. Oscar O. Ortega, Mustafa Ozen, __Blake A. Wilson__, James C. Pino, Michael W. Irvin, Geena V. Ildefonso, Shawn P. Garbett, and Carlos F. Lopez (2022)
-Probability-based mechanisms in biological networks with parameter uncertainty, bioRxiv. <https://doi.org/10.1101/2021.01.26.428266>
 {: reversed="reversed"}
