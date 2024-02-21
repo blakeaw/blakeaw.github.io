@@ -17,7 +17,6 @@ subtitle: Academic publications.
 ### Preprints
 
 
-0. Hejian Xiong, __Blake A. Wilson__, Xiaoqian Ge, Xiaofei Gao, Qi Cai, Xueqi Xu, Robert Bachoo, and Zhenpeng Qin (2023) Glioblastoma Margin as a Diffusion Barrier Revealed by Photoactivation of Plasmonic Nanovesicles, bioRxiv. <https://doi.org/10.1101/2023.10.29.564569>
 0. Chen Xie, __Blake Wilson__, and Zhenpeng Qin (2023) Regulating nanoscale heat transfer with Janus nanopartilces, arXiv. <https://doi.org/10.48550/arXiv.2305.17270>
 0. Jonghae Youn, Peiyuan Kang, __Blake A. Wilson__, Chen Xie, Lokesh Basavarajappa, Qingxiao Wang, Moon Kim, Kenneth Hoyt, and Zhenpeng Qin (2022) Significantly amplified photoacoustic effect for silica-coated gold nanoparticles by interface heat transfer mechanisms, bioRxiv. <https://doi.org/10.1101/2022.09.28.509922>
 0. Oscar O. Ortega, Mustafa Ozen, __Blake A. Wilson__, James C. Pino, Michael W. Irvin, Geena V. Ildefonso, Shawn P. Garbett, and Carlos F. Lopez (2022)
@@ -26,6 +25,8 @@ Probability-based mechanisms in biological networks with parameter uncertainty, 
 
 ### Peer-reviewed Publications
 
+0. Hejian Xiong*, __Blake A. Wilson__*, Xiaoqian Ge*, Xiaofei Gao, Qi Cai, Xueqi Xu, Robert Bachoo, and Zhenpeng Qin (2024) Glioblastoma Margin as a Diffusion Barrier Revealed by Photoactivation of Plasmonic Nanovesicles, Nano Lett. 24 (5), 1570-1578. (*=co-first authors) <https://doi.org/10.1021/acs.nanolett.3c04101>\
+<img src="https://pubs.acs.org/cms/10.1021/acs.nanolett.3c04101/asset/images/medium/nl3c04101_0005.gif" alt="ToC Image" width="300"/>
 0. Hejian Xiong, __Blake A. Wilson__, Paul A. Slesinger, Zhenpeng Qin, Optical uncaging and release for understanding neuropeptide transmission in the brain, ACS Chem. Neurosci., 14, 4, 516-523. (*Special Issue on 'Monitoring Molecules in Neuroscience 2023'*) <https://doi.org/10.1021/acschemneuro.2c00684>\
 <img src="https://pubs.acs.org/cms/10.1021/acschemneuro.2c00684/asset/images/medium/cn2c00684_0004.gif" alt="ToC Image" width="300"/>
 0. Xiaoqing Li, Qi Cai, __Blake A. Wilson__, Hanwen Fan, Harsh Dave, Monica Giannotta, Robert Bachoo, and Zhenpeng Qin (2023) Calcium-Mediated Modulation of Blood-Brain Barrier Permeability by Laser Stimulation of Endothelial-Targeted Nanoparticles, Nanoscale, 15, 3387-3397. <https://doi.org/10.1039/D2NR05062E>\

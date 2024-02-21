@@ -23,18 +23,18 @@ bigimg:
 ---
 ## Welcome
 
-Hey there, I’m Blake - a computational research scientist with experience building models, running simulations, and performing data analysis across areas of physical chemistry, systems biology, and nano-bioengineering. I have a penchant for computational methods and programming, so I like building new computational tools. I also drink a lot of tea!  
+Hey there! I’m Blake, a skilled computational research scientist with a penchant for tea.
 
-I recently completed a term as a (postdoctoral) Research Associate in the [NanoBioengineering Lab](https://www.nanobrainlab.net/) at [UT Dallas](https://www.utdallas.edu/). While there I provided computational support including modeling and data analysis to a variety of projects in the lab, but my principal focus was on studying [molecular hyperthermia](https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.201700841) and diffusion in the brain extracellular space. I used a variety of modeling and simulation methods including molecular dynamics simulation, rules-based ODE models, and reaction-diffusion modeling along with data and image analysis methods to help better understand and characterize these phenomena.
+Want learn more? Check out the [About Me](https://blakeaw.github.io/aboutme/) section for a deeper dive into my academic and professional journey. 
 
-Currently, I'm looking for new career opportunities in _i)_ research support and high-performance computing or _ii)_ pharma and drug discovery.
+Interested in my skills and experience - let's connect! I am currently exploring new career opportunities that could leverage my experience in research and skills in scientific computing, and I'd be happy to discuss how I can contribute to your team. See the [Contact](https://blakeaw.github.io/contact/) page for ways to get in reach out.
 
 ### Quick Links
 
-[![Most Recent](https://img.shields.io/badge/Research%20Associate%20@%20UT%20Dallas-2019--2023-blueviolet?style=social)](aboutme#professional-experience)
+[![Most Recent](https://img.shields.io/badge/Currently%20Unafilliated-2023--Present-blueviolet?style=social)](aboutme#professional-experience)
 [![PhD](https://img.shields.io/badge/Ph.D.-Chemistry-blue?style=social)](aboutme#education)
 
-[![CV](https://img.shields.io/badge/Download-my%20CV-lightgrey?style=for-the-badge)](https://drive.google.com/file/d/1JCpTAaTp_cIA0VEb8G9surkjtIyj9ZUJ/view?usp=sharing) [![LearnMore](https://img.shields.io/badge/Learn%20More-About%20Me-lightgrey?style=for-the-badge)](aboutme.md) [![LearnMore](https://img.shields.io/badge/Learn%20More-About%20NT--BEL's%20Research-lightgrey?style=for-the-badge)](https://www.nanobrainlab.net/research-areas)
+[![CV](https://img.shields.io/badge/Download-my%20CV-lightgrey?style=for-the-badge)](https://drive.google.com/file/d/1JCpTAaTp_cIA0VEb8G9surkjtIyj9ZUJ/view?usp=sharing) [![LearnMore](https://img.shields.io/badge/Learn%20More-About%20Me-lightgrey?style=for-the-badge)](aboutme.md) 
 
 ------
 
@@ -42,7 +42,7 @@ Currently, I'm looking for new career opportunities in _i)_ research support and
 
 #### Academic Publications/Preprints
 
-0. **Preprint:** (2023) Hejian Xiong, <u>Blake A. Wilson</u>, Xiaoqian Ge, Xiaofei Gao, Qi Cai, Xueqi Xu, Robert Bachoo, and Zhenpeng Qin, Glioblastoma Margin as a Diffusion Barrier Revealed by Photoactivation of Plasmonic Nanovesicles, bioRxiv. <https://doi.org/10.1101/2023.10.29.564569>
+0. **Journal Article:** (2024) Hejian Xiong*, __Blake A. Wilson__*, Xiaoqian Ge*, Xiaofei Gao, Qi Cai, Xueqi Xu, Robert Bachoo, and Zhenpeng Qin, Glioblastoma Margin as a Diffusion Barrier Revealed by Photoactivation of Plasmonic Nanovesicles, Nano Lett. 24 (5), 1570-1578. (*=co-first authors) <https://doi.org/10.1021/acs.nanolett.3c04101>
 0. **Preprint:** (2023) Chen Xie, <u>Blake Wilson</u>, and Zhenpeng Qin, Regulating nanoscale heat transfer with Janus nanopartilces, arXiv. <https://doi.org/10.48550/arXiv.2305.17270>
 0. **Perspective:** (2023) Hejian Xiong, <u>Blake A. Wilson</u>, Paul A. Slesinger, Zhenpeng Qin, Optical uncaging and release for understanding neuropeptide transmission in the brain, ACS Chem. Neurosci., 14, 4, 516-523. (*Special Issue on 'Monitoring Molecules in Neuroscience 2023'*) <https://doi.org/10.1021/acschemneuro.2c00684>
 0. **Journal Article:** (2023) Xiaoqing Li, Qi Cai, <u>Blake A. Wilson</u>, Hanwen Fan, Harsh Dave, Monica Giannotta, Robert Bachoo, and Zhenpeng Qin, Calcium-Mediated Modulation of Blood-Brain Barrier Permeability by Laser Stimulation of Endothelial-Targeted Nanoparticles, Nanoscale, 15, 3387-3397. <https://doi.org/10.1039/D2NR05062E>
@@ -50,10 +50,13 @@ Currently, I'm looking for new career opportunities in _i)_ research support and
 
 Visit [PUBLICATIONS](https://blakeaw.github.io/publications/) to view a full list of publications.
 
-#### Latest Blog Post
+#### Latest Blog Posts
 
 (11/12/2023) 
 [Harnessing the speed of Julia in Python with PyJulia: A case study in the Monte Carlo estimation of Pi](https://blakeaw.github.io/2023-11-16-pyjulia-pimc/)
+
+(10/23/2023) 
+[Modeling Drug Dynamics using Programmatic PK/PD Models in Python: An Introduction to PK/PD Modeling using PySB and pysb-pkpd](https://blakeaw.github.io/2023-10-23-pysb-pkpd/)
 
 
 ------

@@ -8,6 +8,7 @@ subtitle: From first-gen college student to PhD and beyond.
 
 **Hey there, I’m Blake - an experienced computational researcher with a penchant for tea.**
 
+As an experienced computational researcher, my journey spans across domains of physical chemistry, systems biology, and nano-bioengineering. My expertise lies in building and deploying models, running simulations, and conducting data analysis. From atomistic molecular dynamics simulations to rule-based ODE models, I've delved into a spectrum of modeling and simulation methods. Proficient in scientific Python programming and with a background in C/C++, I've actively contributed to the development of computational methods and tools. My passion for scientific computing and exploring complex problems is matched only by my love for tea, which helps fuel my creativity and contemplation.
 
 ## Educational Journey
 
@@ -23,7 +24,7 @@ During the final summer of my PhD education, I had the opportunity to do researc
 
 I completed my degree in absentia in August of 2016. 
 
-## The Beyond
+## The Beyond - Postdoctoral/Professional Journey
 
 ### Postdoc Chapter 1
 
@@ -48,7 +49,9 @@ Qin lab and couple guests at a lunch party, circa 2022.
 
 ### Current Chapter
 
-I am currently exploring new career opportunities that leverage my expertise in computational research and my passion for scientific computing. 
+I am currently exploring new career opportunities that would leverage my experience in research and skills in scientific computing. 
+
+Interested in my skills and experience - let's connect! I'd be happy discuss how I can contribute to your team. See the [Contact](https://blakeaw.github.io/contact/) page for ways to get in touch with me.
 
 ## Other Interests
 
@@ -63,7 +66,7 @@ From occasional sips for a caffein boost to a more mindful practice of Gong Fu b
 
 As a kid growing up in rural East Texas, I was no stranger to wandering through the woods, often armed with a pocket knife, machete, and make-shift walking stick. I always enjoyed getting a little lost amongst the trees, forging new trails, and finding ways to cross the creeks. In the final year or year and a half while in Tennessee for my first postdoc at Vanderbilt, I rediscovered a love of hiking and made it a regular part of my weekends. After moving back to the Dallas area though, hiking went to the wayside for a while. However, I recently rediscovered (again) the joy and solace of a good hike. Along with tea, hiking also helps me recover and improve my well-being.  
 
-I'm currenlty making an effort to visit various Texas State Parks and day hike their trails. I'm also participating in the 52 Hike Challenge, which I started back in June. 
+I'm currenlty making an effort to visit various Texas State Parks and day hike their trails. I also recently (Feb. 2024) completed the [52 Hike Challenge](https://www.52hikechallenge.com/), which I started back in June 2023. 
 
 <img src="https://drive.google.com/thumbnail?id=137xXSFk8oDzBA-7WUeWRFqIFo56xJFQG&sz=w400" alt="Enchanted Rock Summit"/>
 
