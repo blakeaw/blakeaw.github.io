@@ -25,7 +25,7 @@ Probability-based mechanisms in biological networks with parameter uncertainty, 
 
 ### Peer-reviewed Publications
 
-0. Hejian Xiong*, __Blake A. Wilson__*, Xiaoqian Ge*, Xiaofei Gao, Qi Cai, Xueqi Xu, Robert Bachoo, and Zhenpeng Qin (2024) Glioblastoma Margin as a Diffusion Barrier Revealed by Photoactivation of Plasmonic Nanovesicles, Nano Lett. 24 (5), 1570-1578. (*=co-first authors) <https://doi.org/10.1021/acs.nanolett.3c04101>\
+0. Hejian Xiong\*, __Blake A. Wilson__\*, Xiaoqian Ge\*, Xiaofei Gao, Qi Cai, Xueqi Xu, Robert Bachoo, and Zhenpeng Qin (2024) Glioblastoma Margin as a Diffusion Barrier Revealed by Photoactivation of Plasmonic Nanovesicles, Nano Lett. 24 (5), 1570-1578. (\*=co-first authors) <https://doi.org/10.1021/acs.nanolett.3c04101>\
 <img src="https://pubs.acs.org/cms/10.1021/acs.nanolett.3c04101/asset/images/medium/nl3c04101_0005.gif" alt="ToC Image" width="300"/>
 0. Hejian Xiong, __Blake A. Wilson__, Paul A. Slesinger, Zhenpeng Qin, Optical uncaging and release for understanding neuropeptide transmission in the brain, ACS Chem. Neurosci., 14, 4, 516-523. (*Special Issue on 'Monitoring Molecules in Neuroscience 2023'*) <https://doi.org/10.1021/acschemneuro.2c00684>\
 <img src="https://pubs.acs.org/cms/10.1021/acschemneuro.2c00684/asset/images/medium/cn2c00684_0004.gif" alt="ToC Image" width="300"/>
