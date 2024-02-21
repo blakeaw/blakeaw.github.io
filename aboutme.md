@@ -18,7 +18,7 @@ I started my educational journey at The University of Texas at Tyler, earning my
 
 ### To PhD
 
-My journey continued at The Univeristy of Texas at Dallas, where I earned my PhD in Chemistry under the guidance of Dr. Steven O. Nielsen in the Molecular Simulation Lab. Specialing in theoretical and computational physical chemistry, I developed expertise in molecular simulation and free energy methods.
+My journey continued at The Univeristy of Texas at Dallas, where I earned my PhD in Chemistry under the guidance of Dr. Steven O. Nielsen in the [Molecular Simulation Lab](https://personal.utdallas.edu/~son051000/). Specialing in theoretical and computational physical chemistry, I developed expertise in molecular simulation and free energy methods.
 
 During the final summer of my PhD education, I had the opportunity to do research at Oak Ridge National Lab through the Advanced Short-Term Research Opportunity (ASTRO) program. This was a great learning experience, further cultivating my interest in high-performance computing.  
 
@@ -28,7 +28,7 @@ I completed my degree in absentia in August of 2016.
 
 ### Postdoc Chapter 1
 
-After completing my PhD, I went on to do postdoctoral research at Vanderbilt University in Dr. Carlos F. Lopez's lab. There, I was introduced to computational systems biology, and delved into mechanistic and multiscale modeling approaches to cancer biology. 
+After completing my PhD, I went on to do postdoctoral research at Vanderbilt University in [Dr. Carlos F. Lopez's lab](https://my.vanderbilt.edu/lopezlab/). There, I was introduced to computational systems biology, and delved into mechanistic and multiscale modeling approaches to cancer biology. 
 
 
 <img src="https://drive.google.com/thumbnail?id=1qy1qt8RpKIhdcKOd9HgmelhsCn2zOecc&sz=w400" alt="Lopez Lab Photo"/>
@@ -41,7 +41,7 @@ Once my tenure as a postdoc at Vanderbilt was over, I continued working part-tim
 
 ### Postdoc Chapter 2
 
-At that time, I was back in the Dallas area, so I reconnected with my PhD advisor, Dr. Nielsen. He introduced me to Dr. Zhenpeng Qin who leads the NanoBioengineering Lab at UT Dallas. Dr. Qin was gracious enough to hire me in a part-time research role focused on resolving some discrepancies between atomistic simulations and finite-element models of gold nanoparticle interface heat transfer. After several months, I was eventually offered a full-time postdoctoral research position, and I continued working in the NanoBioengineering Lab until earlier this year. While there, I used my computational skills to help advance the lab's research in areas of molecular hyperthermia and neuropeptide volume transmission (in the brain) while contributing to other projects on an ad hoc basis.  
+At that time, I was back in the Dallas area, so I reconnected with my PhD advisor, Dr. Nielsen. He introduced me to Dr. Zhenpeng Qin who leads the [NanoBioengineering Lab](https://www.nanobrainlab.net/) at UT Dallas. Dr. Qin was gracious enough to hire me in a part-time research role focused on resolving some discrepancies between atomistic simulations and finite-element models of gold nanoparticle interface heat transfer. After several months working part-time for the lab, I was eventually offered a full-time postdoctoral research position, and I continued working in the NanoBioengineering Lab through February of 2023. While there, I used my computational skills to help advance the lab's research in areas of molecular hyperthermia and neuropeptide volume transmission (in the brain) while contributing to other projects on an ad hoc basis.  
 
 <img src="https://drive.google.com/thumbnail?id=16Mi1c1GCosurhcCyRY5f8MHuqxynjIGU&sz=w400" alt="Qin Lab Photo"/>
 
