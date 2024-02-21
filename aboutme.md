@@ -29,7 +29,8 @@ I completed my degree in absentia in August of 2016.
 
 After completing my PhD, I went on to do postdoctoral research at Vanderbilt University in Dr. Carlos F. Lopez's lab. There, I was introduced to computational systems biology, and delved into mechanistic and multiscale modeling approaches to cancer biology. 
 
-<img src="https://drive.google.com/uc?id=1qy1qt8RpKIhdcKOd9HgmelhsCn2zOecc" alt="Tea cups and piggy teapet" width="500"/>
+
+<img src="https://drive.google.com/thumbnail?id=1qy1qt8RpKIhdcKOd9HgmelhsCn2zOecc&sz=w400" alt="Lopez Lab Photo"/>
 
 Lopez lab members and a couple of guests out at dinner, circa 2017 (or maybe 2018...).
 
@@ -41,7 +42,7 @@ Once my tenure as a postdoc at Vanderbilt was over, I continued working part-tim
 
 At that time, I was back in the Dallas area, so I reconnected with my PhD advisor, Dr. Nielsen. He introduced me to Dr. Zhenpeng Qin who leads the NanoBioengineering Lab at UT Dallas. Dr. Qin was gracious enough to hire me in a part-time research role focused on resolving some discrepancies between atomistic simulations and finite-element models of gold nanoparticle interface heat transfer. After several months, I was eventually offered a full-time postdoctoral research position, and I continued working in the NanoBioengineering Lab until earlier this year. While there, I used my computational skills to help advance the lab's research in areas of molecular hyperthermia and neuropeptide volume transmission (in the brain) while contributing to other projects on an ad hoc basis.  
 
-<img src="https://drive.google.com/uc?id=16Mi1c1GCosurhcCyRY5f8MHuqxynjIGU" alt="Tea cups and piggy teapet" width="400"/>
+<img src="https://drive.google.com/thumbnail?id=16Mi1c1GCosurhcCyRY5f8MHuqxynjIGU&sz=w400" alt="Qin Lab Photo"/>
 
 Qin lab and couple guests at a lunch party, circa 2022.
 
@@ -49,14 +50,14 @@ Qin lab and couple guests at a lunch party, circa 2022.
 
 I am currently exploring new career opportunities that leverage my expertise in computational research and my passion for scientific computing. 
 
+## Other Interests
 
-## Tea Along the Way
+### Tea Along the Way
 
 From occasional sips for a caffein boost to a more mindful practice of Gong Fu brewing, my love of tea has grown alongside my academic and professional journey. Tea serves as source of comfort and calm amid the rigors work and daily life, helping me recover focus, destress, and inject a little more mindfulness into my life. 
 
-<img src="https://drive.google.com/uc?id=1gxkn1PXU0HZ9LjkhSa853KmD5luWzuvO" alt="Tea cups and piggy teapet" width="400"/>
+<img src="https://drive.google.com/thumbnail?id=1gxkn1PXU0HZ9LjkhSa853KmD5luWzuvO&sz=w400" alt="Tea cups and piggy teapet"/>
 
-## Other Interests
 
 ### Hiking
 
@@ -64,7 +65,7 @@ As a kid growing up in rural East Texas, I was no stranger to wandering through 
 
 I'm currenlty making an effort to visit various Texas State Parks and day hike their trails. I'm also participating in the 52 Hike Challenge, which I started back in June. 
 
-<img src="https://drive.google.com/uc?id=137xXSFk8oDzBA-7WUeWRFqIFo56xJFQG" alt="Enchanted Rock Summit" width="400"/>
+<img src="https://drive.google.com/thumbnail?id=137xXSFk8oDzBA-7WUeWRFqIFo56xJFQG&sz=w400" alt="Enchanted Rock Summit"/>
 
 Me at the summit of Enchanted Rock. Echanted Rock State Natural Area, Fredericksburg, TX.
 
@@ -76,6 +77,6 @@ I enjoy reading fiction, incuding science-fiction, fantasy, and detective storie
 
 I also dabble in the arts, and particularly enjoy pencil/charcoal sketching and soft pastel painting. 
 
-<img src="https://drive.google.com/uc?id=1W8UMRD11l4_yg2oX3iUPc3ByrudPmtsW" alt="Birb sketch" width="250"/>
+<img src="https://drive.google.com/thumbnail?id=1W8UMRD11l4_yg2oX3iUPc3ByrudPmtsW&sz=w200" alt="Birb sketch"/>
 
 Sketch of a birb.

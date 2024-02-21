@@ -5,7 +5,7 @@ subtitle: A case study in the Monte Carlo estimation of Pi
 tags: [Python, Julia, PyJulia, Monte Carlo]
 ---
 
-![image](https://drive.google.com/uc?id=1TVnJWb-HqociLFpClWGIGMtkHuMpR9HC) 
+![image](https://drive.google.com/thumbnail?id=1TVnJWb-HqociLFpClWGIGMtkHuMpR9HC&sz=w700) 
 
 In a [previous post](https://blakeaw.github.io/2019-09-20-numba-vs-julia/), I compared different Python implementations of a function to estimate pi using Monte Carlo sampling to one in [Julia](https://julialang.org/). In that case, the Julia version outperformed all the Python implementations I tried. So, when I recently learned about [PyJulia](https://pyjulia.readthedocs.io/en/latest/index.html), which can be used to call and execute Julia functions from Python code, I wanted to try it out and see if I could harness the speed of Julia to boost the performance of one of my Python packages. After trying it out, seeing how easy it could be, and achieving decent results for my specific use case, I decided to share some of what I learned here to help you take advantage of integrating Julia code into your Python packages. 
 
@@ -102,7 +102,7 @@ If you are using the `JULIA_RUNTIME` environment variable (or some other locatio
 Before jumping into the code, let's briefly review the problem of estimating Pi using Monte Carlo sampling. Assume we know Pi is related to the area of a circle _A<sub>circle</sub> = Pi r<sup>2</sup>_, but we don't know its value. To estimate Pi using the Monte Carlo method we can inscribe our circle in a square with side length _2r_ and area _A<sub>square</sub> = 4r<sup>2</sup>_, and then we can imagine throwing darts at random throughout the area of the square. If we tally the darts that land inside and outside the circle, we use that to estimate Pi. We do this by taking advantage of the relationship between the ratio of the areas of the circle and square and the ratio of darts inside the circle to the total number of darts thrown at the square (both inside and outside the circle):
 
 
-![image](https://drive.google.com/uc?id=1ZR0cCtTWnsIMVUjSuC-OpXm8WeuT4fYW)
+![image](https://drive.google.com/thumbnail?id=1ZR0cCtTWnsIMVUjSuC-OpXm8WeuT4fYW&sz=w400)
 
 The more darts we throw, the more thoroughly we sample the two areas, and the more accurate our estimate of their ratio and thus Pi will be.
 
