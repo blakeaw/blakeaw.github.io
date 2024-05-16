@@ -27,7 +27,7 @@ Hey there! I’m Blake, a skilled computational research scientist with a pencha
 
 Want learn more? Check out the [About Me](https://blakeaw.github.io/aboutme/) section for a deeper dive into my academic and professional journey. 
 
-Interested in my skills and experience - let's connect! I am currently exploring new career opportunities that could leverage my experience in research and skills in scientific computing, and I'd be happy to discuss how I can contribute to your team. See the [Contact](https://blakeaw.github.io/contact/) page for ways to get in reach out.
+Interested in my skills and experience - let's connect! I am currently exploring new career opportunities that could leverage my experience in research and skills in scientific computing, and I'd be happy to discuss how I can contribute to your team. See the [Contact](https://blakeaw.github.io/contact/) page for ways to get in touch.
 
 ### Quick Links
 
