@@ -41,9 +41,9 @@ Interested in my skills and experience - let's connect! I am currently exploring
 ### Recent Work
 
 #### Academic Publications/Preprints
-
+0. **Journal Article** (2024) Oscar O. Ortega, Mustafa Ozen, <u>Blake A. Wilson</u>, James C. Pino, Michael W. Irvin, Geena V. Ildefonso, Shawn P. Garbett, and Carlos F. Lopez, Signal execution modes emerge in biochemical reaction networks calibrated to experimental data, iScience, In Press. <https://doi.org/10.1016/j.isci.2024.109989>
+0. **Journal Article** (2024) Chen Xie, <u>Blake A. Wilson</u>, and Zhenpeng Qin, Regulating nanoscale directional heat transfer with Janus nanopartilces, Nanoscale Adv. <https://doi.org/10.1039/D3NA00781B>
 0. **Journal Article:** (2024) Hejian Xiong\*, <u>Blake A. Wilson</u>\*, Xiaoqian Ge\*, Xiaofei Gao, Qi Cai, Xueqi Xu, Robert Bachoo, and Zhenpeng Qin, Glioblastoma Margin as a Diffusion Barrier Revealed by Photoactivation of Plasmonic Nanovesicles, Nano Lett. 24 (5), 1570-1578. (\*=co-first authors) <https://doi.org/10.1021/acs.nanolett.3c04101>
-0. **Preprint:** (2023) Chen Xie, <u>Blake Wilson</u>, and Zhenpeng Qin, Regulating nanoscale heat transfer with Janus nanopartilces, arXiv. <https://doi.org/10.48550/arXiv.2305.17270>
 0. **Perspective:** (2023) Hejian Xiong, <u>Blake A. Wilson</u>, Paul A. Slesinger, Zhenpeng Qin, Optical uncaging and release for understanding neuropeptide transmission in the brain, ACS Chem. Neurosci., 14, 4, 516-523. (*Special Issue on 'Monitoring Molecules in Neuroscience 2023'*) <https://doi.org/10.1021/acschemneuro.2c00684>
 0. **Journal Article:** (2023) Xiaoqing Li, Qi Cai, <u>Blake A. Wilson</u>, Hanwen Fan, Harsh Dave, Monica Giannotta, Robert Bachoo, and Zhenpeng Qin, Calcium-Mediated Modulation of Blood-Brain Barrier Permeability by Laser Stimulation of Endothelial-Targeted Nanoparticles, Nanoscale, 15, 3387-3397. <https://doi.org/10.1039/D2NR05062E>
 {: reversed="reversed"}
