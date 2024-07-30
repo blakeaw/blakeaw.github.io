@@ -4,14 +4,14 @@ title: Software
 subtitle: A selection of software contributions.
 ---
 
-Note that additional software contributions can be found on my GitHub account page, [github.com/blakeaw](https://github.com/blakeaw), as well as the [NTBEL](https://github.com/NTBEL) and [LoLab-MSM](https://github.com/LoLab-MSM) GitHub organizations. 
+Note that additional software contributions can be found on my GitHub account page, [github.com/blakeaw](https://github.com/blakeaw), as well as the [NTBEL](https://github.com/NTBEL), [LoLab-MSM](https://github.com/LoLab-MSM), and [Borealis-BioModeling](https://github.com/Borealis-BioModeling) GitHub organizations. 
 
 ------
 ------
 
 # Research Software
 
-Software developed as a part of my research at UT Dallas or Vanderbilt University.
+Software developed as a part of my research at UT Dallas and Vanderbilt University.
 
 
 ## Web apps 
@@ -96,12 +96,16 @@ BioComparator is a Python utility for comparing biological models encoded with [
 
 # Personal Projects 
 
-#### pysb-pkpd
+## Web Apps
 
-**pysb-pkpd** is an add-on for the PySB modeling framework that provides domain-specific macros and pre-constructed models for empirical and mechanistic PK/PD modeling.
+### Aurora PK/PD
 
-* **Language:** Python.
-* **Source Code Repo:** [github.com/blakeaw/pysb-pkpd](https://github.com/blakeaw/pysb-pkpd)
+Open Web App for Pharmcological Modeling and Analysis.
+
+Try it out for free on Streamlit Community Cloud: https://aurora-pkpd.streamlit.app/
+
+* **Source Code Repo**: https://github.com/Borealis-BioModeling/aurora-pkpd
+* **Language**: Python and the Streamlit framework.
 
 ------
 
@@ -109,10 +113,47 @@ BioComparator is a Python utility for comparing biological models encoded with [
 
 Use this web app to view and analyze data for hikes completed as a part of the 52 Hike Challenge.
 
-Try it out for free on Streamlit Cloud: https://52-hike-app.streamlit.app/
+Try it out for free on Streamlit Community Cloud: https://52-hike-app.streamlit.app/
 
 * **Source Code Repo**: https://github.com/blakeaw/52-hike-app
 * **Language**: Python and the Streamlit framework.
+
+------
+
+### Insurance Pro Rata Calculator 
+
+Use this web app to calculate pro rata insurance rates.
+
+Try it out for free on Streamlit Community Cloud: https://blakeaw-insurance-pro-rata-calculator-streamlit-app-rryoqp.streamlit.app/
+
+* **Source Code Repo**: https://github.com/blakeaw/insurance-pro-rata-calculator
+* **Language**: Python and the Streamlit framework.
+
+------
+
+## Python programs/packages
+
+#### pysb-units
+
+[![DOI](https://zenodo.org/badge/809880137.svg)](https://zenodo.org/doi/10.5281/zenodo.12786380)
+
+**pysb-units** is an add-on for the PySB modeling framework that streamlines unit management and helps ensure unit consistency in PySB models.
+
+* **Language:** Python.
+* **Source Code Repo:** [Borealis-BioModeling/pysb-units](https://github.com/Borealis-BioModeling/pysb-units)
+
+------
+
+#### pysb-pkpd
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12775536.svg)](https://doi.org/10.5281/zenodo.12775536)
+
+**pysb-pkpd** is an add-on for the PySB modeling framework that enables you to efficiently program and simulate dynamic PK/PD and QSP models in Python using PySB.
+
+provides domain-specific macros and pre-constructed models for empirical and mechanistic PK/PD modeling.
+
+* **Language:** Python.
+* **Source Code Repo:** [github.com/blakeaw/pysb-pkpd](https://github.com/blakeaw/pysb-pkpd)
 
 ------
 
@@ -139,6 +180,8 @@ GAlibrate is a python toolkit that provides an easy to use interface for model c
 * **Source Code Repo** [github.com/blakeaw/ObjectiveLearner](https://github.com/blakeaw/ObjectiveLearner)
 
 ------
+
+## Other
 
 #### Bash Adventure
 

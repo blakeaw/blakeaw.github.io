@@ -19,7 +19,9 @@ subtitle: Potentially helpful resources.
   * [STRING](https://string-db.org/) - Protein-protein interaction networks and functional enrichment analysis.
   * [BindingDB](https://www.bindingdb.org/bind/index.jsp) - binding affinities for proteins and drug-like molecules
   * [Human Protein Atlas](https://www.proteinatlas.org/) - data on the human proteome.
-  * [SuPepMem](https://supepmem.com/) - molecular dynamics simulations of peptides interacting with membranes, including input files, trajectories, and some analysis outputs.  
+  * [SuPepMem](https://supepmem.com/) - molecular dynamics simulations of peptides interacting with membranes, including input files, trajectories, and some analysis outputs.
+  * [IntAct](https://www.ebi.ac.uk/intact/home) - macromolecular interaction data  
+  * [MD Repo](https://mdrepo.org/) - molecular dynamics simulations of proteins, with and without ligands.
 * Small molecules (drugs and other biologically relevant molecules):
   * [ChEBI](https://www.ebi.ac.uk/chebi/init.do) - small chemicals of biological interest
   * [NeuroPep](http://isyslab.info/NeuroPep/) - information on neuropeptides

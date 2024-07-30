@@ -34,7 +34,7 @@ Interested in my skills and experience - let's connect! I am currently exploring
 [![Most Recent](https://img.shields.io/badge/Currently%20Unafilliated-2023--Present-blueviolet?style=social)](aboutme#professional-experience)
 [![PhD](https://img.shields.io/badge/Ph.D.-Chemistry-blue?style=social)](aboutme#education)
 
-[![CV](https://img.shields.io/badge/Download-my%20CV-lightgrey?style=for-the-badge)](https://drive.google.com/file/d/1JCpTAaTp_cIA0VEb8G9surkjtIyj9ZUJ/view?usp=sharing) [![LearnMore](https://img.shields.io/badge/Learn%20More-About%20Me-lightgrey?style=for-the-badge)](aboutme.md) 
+[![LearnMore](https://img.shields.io/badge/Learn%20More-About%20Me-lightgrey?style=for-the-badge)](aboutme.md) 
 
 ------
 
@@ -52,24 +52,20 @@ Visit [PUBLICATIONS](https://blakeaw.github.io/publications/) to view a full lis
 
 #### Latest Blog Posts
 
+(07/29/2024)
+[Introducing Aurora PK/PD! An Open Web App for Pharmacological Modeling and Analysis](https://blakeaw.github.io/2024-07-29-aurora-pkpd-announcement/)
+
 (11/12/2023) 
 [Harnessing the speed of Julia in Python with PyJulia: A case study in the Monte Carlo estimation of Pi](https://blakeaw.github.io/2023-11-16-pyjulia-pimc/)
 
 (10/23/2023) 
 [Modeling Drug Dynamics using Programmatic PK/PD Models in Python: An Introduction to PK/PD Modeling using PySB and pysb-pkpd](https://blakeaw.github.io/2023-10-23-pysb-pkpd/)
 
+#### Software Releases
 
-------
+* (07/24/2024) [Aurora PK/PD v0.1.0-alpha](https://github.com/Borealis-BioModeling/aurora-pkpd)
+* (07/23/2024) [GAlibarate v0.7.1](https://github.com/blakeaw/GAlibrate)
+* (07/22/2024) [pharmacodynamic-response-models v0.2.0](https://github.com/Borealis-BioModeling/pharmacodynamic-response-models)
+* (07/21/2024) [pysb-pkpd v0.3.3](https://github.com/blakeaw/pysb-pkpd)
+* (07/19/2024) [pysb-units v0.4.0](https://github.com/Borealis-BioModeling/pysb-units)
 
-### Upcoming conferences
-  * None at this time.
-
-### Recent conferences
-* [TACCSTER](https://www.tacc.utexas.edu/taccster-2022) (in-person), Sept. 2022
-  * Poster #4: "Atomistic simulations provide mechanistic insight into heat transfer across nanoscale interfaces between gold and water"
-
-* [WCB 2022](https://www.wcb2022.com/) (virtual), July 2022
-  * Poster (Abstract 14603: "Quantitative analysis of PAR2 signaling by receptor photoinactivation with molecular hyperthermia"
-
-* [SB3C 2022](https://sb3c.org/) (in-person), June 2022
-  * Poster (Abstract 426): "Mathematical Modeling Of PAR2 Signaling And Receptor Photoinactivation With Molecular Hyperthermia

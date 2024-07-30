@@ -37,7 +37,7 @@ subtitle: Academic publications.
 <img src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D2NR05062E&imageInfo.ImageIdentifier.Year=2023" alt="ToC Image" width="300"/>
 
 0. __Blake A. Wilson__, Steven O. Nielsen, Jaona H. Randrianalisoa, and Zhenpeng Qin (2022) Curvature and temperature-dependent thermal interface conductance between nanoscale gold and water, J. Chem. Phys. 157, 054703. <https://doi.org/10.1063/5.0090683>\
-<img src="https://media.licdn.com/dms/image/C5622AQHYZZ3CvfhEAg/feedshare-shrink_1280/0/1659984903749?e=1711584000&v=beta&t=mVLqOt0Gs4fQjc6P28oFN_wMhzpAqbx5u371wdzLWHY" alt="ToC Image" width="300"/>
+<img src="https://drive.google.com/thumbnail?id=1lQxXEYaEUwLOfBGS4HlzwWmhaRNoNTpx&sz=w300" alt="ToC Image" width="300"/>
 
 0. Hejian Xiong, Emre Lacin, Hui Ouyang, Aditi Naik, Xueqi Xu, Chen Xie, Jonghae Youn, __Blake A. Wilson__, Krutin Kumar, Tyler Kern, Erin Aisenberg, Daniel Kircher, Xiuying Li, Joseph A. Zasadzinski, Celine Mateo, David Kleinfeld, Sabina Hrabetova, Paul A. Slesinger, Zhenpeng Qin (2022) Probing Neuropeptide Volume Transmission In Vivo by Simultaneous Near-Infrared Light Triggered Release and Optical Sensing, Angew. Chem., e202206122. <https://doi.org/10.1002/anie.202206122>\
 <img src="https://onlinelibrary.wiley.com/cms/asset/a5f12dca-3e31-4967-8062-5f8e322652b1/anie202206122-toc-0001-m.png" alt="ToC Image" width="300"/>
