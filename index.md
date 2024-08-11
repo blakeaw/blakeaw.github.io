@@ -23,7 +23,7 @@ bigimg:
 ---
 ## Welcome
 
-Hey there! I’m Blake, a skilled computational research scientist with a penchant for tea.
+Hey there! I’m Blake, a computational research scientist with a penchant for tea. I have a background in computational physical chemistry with additional postdoctoral experience in cancer systems biology and nano-bioengineering. My expertise includes molecular simulation and encompasses molecular dynamics, Monte Carlo, and free energy simulation methods. In addition to my molecular simulation skills, I have experience with differential equation-based reaction-diffusion and reaction network models of chemical and biological systems, such as cellular signaling processes; my skillset in this domain also includes parameter estimation using stochastic optimization and Bayesian inference methods, as well as model selection, information theoretics, and dynamical model analysis. I'm also proficient with Linux/UNIX systems, Bash scripting, and Python programming (with a background in C++), and I have extensive experience utilizing high-performance computing environments.
 
 Want learn more? Check out the [About Me](https://blakeaw.github.io/aboutme/) section for a deeper dive into my academic and professional journey. 
 
@@ -41,6 +41,7 @@ Interested in my skills and experience - let's connect! I am currently exploring
 ### Recent Work
 
 #### Academic Publications/Preprints
+
 0. **Journal Article** (2024) Oscar O. Ortega, Mustafa Ozen, <u>Blake A. Wilson</u>, James C. Pino, Michael W. Irvin, Geena V. Ildefonso, Shawn P. Garbett, and Carlos F. Lopez, Signal execution modes emerge in biochemical reaction networks calibrated to experimental data, iScience, In Press. <https://doi.org/10.1016/j.isci.2024.109989>
 0. **Journal Article** (2024) Chen Xie, <u>Blake A. Wilson</u>, and Zhenpeng Qin, Regulating nanoscale directional heat transfer with Janus nanopartilces, Nanoscale Adv. <https://doi.org/10.1039/D3NA00781B>
 0. **Journal Article:** (2024) Hejian Xiong\*, <u>Blake A. Wilson</u>\*, Xiaoqian Ge\*, Xiaofei Gao, Qi Cai, Xueqi Xu, Robert Bachoo, and Zhenpeng Qin, Glioblastoma Margin as a Diffusion Barrier Revealed by Photoactivation of Plasmonic Nanovesicles, Nano Lett. 24 (5), 1570-1578. (\*=co-first authors) <https://doi.org/10.1021/acs.nanolett.3c04101>
@@ -51,6 +52,9 @@ Interested in my skills and experience - let's connect! I am currently exploring
 Visit [PUBLICATIONS](https://blakeaw.github.io/publications/) to view a full list of publications.
 
 #### Latest Blog Posts
+
+(08/06/2024)
+[Embedding Julia in a Python-based Genetic Algorithm Optimizer using PyJulia](https://blakeaw.github.io/2024-08-06-galibrate-julia/)
 
 (07/29/2024)
 [Introducing Aurora PK/PD! An Open Web App for Pharmacological Modeling and Analysis](https://blakeaw.github.io/2024-07-29-aurora-pkpd-announcement/)
@@ -63,7 +67,8 @@ Visit [PUBLICATIONS](https://blakeaw.github.io/publications/) to view a full lis
 
 #### Software Releases
 
-* (07/24/2024) [Aurora PK/PD v0.1.0-alpha](https://github.com/Borealis-BioModeling/aurora-pkpd)
+* (08/08/2024) [LAMMPS Post v0.1.0](https://github.com/blakeaw/lammps-post)
+* (08/02/2024) [Aurora PK/PD v0.1.2-alpha](https://github.com/Borealis-BioModeling/aurora-pkpd)
 * (07/23/2024) [GAlibarate v0.7.1](https://github.com/blakeaw/GAlibrate)
 * (07/22/2024) [pharmacodynamic-response-models v0.2.0](https://github.com/Borealis-BioModeling/pharmacodynamic-response-models)
 * (07/21/2024) [pysb-pkpd v0.3.3](https://github.com/blakeaw/pysb-pkpd)
