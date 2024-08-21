@@ -53,23 +53,20 @@ Visit [PUBLICATIONS](https://blakeaw.github.io/publications/) to view a full lis
 
 #### Latest Blog Posts
 
+(08/21/2024)
+[Programming container recipes in Python with NVIDIA HPC Container Maker](https://blakeaw.github.io/2024-08-21-hpccm-intro/)
+
 (08/06/2024)
 [Embedding Julia in a Python-based Genetic Algorithm Optimizer using PyJulia](https://blakeaw.github.io/2024-08-06-galibrate-julia/)
 
 (07/29/2024)
 [Introducing Aurora PK/PD! An Open Web App for Pharmacological Modeling and Analysis](https://blakeaw.github.io/2024-07-29-aurora-pkpd-announcement/)
 
-(11/12/2023) 
-[Harnessing the speed of Julia in Python with PyJulia: A case study in the Monte Carlo estimation of Pi](https://blakeaw.github.io/2023-11-16-pyjulia-pimc/)
-
-(10/23/2023) 
-[Modeling Drug Dynamics using Programmatic PK/PD Models in Python: An Introduction to PK/PD Modeling using PySB and pysb-pkpd](https://blakeaw.github.io/2023-10-23-pysb-pkpd/)
-
 #### Software Releases
 
+* (08/16/2024) [GAlibarate v0.7.2](https://github.com/blakeaw/GAlibrate)
 * (08/08/2024) [LAMMPS Post v0.1.0](https://github.com/blakeaw/lammps-post)
 * (08/02/2024) [Aurora PK/PD v0.1.2-alpha](https://github.com/Borealis-BioModeling/aurora-pkpd)
-* (07/23/2024) [GAlibarate v0.7.1](https://github.com/blakeaw/GAlibrate)
 * (07/22/2024) [pharmacodynamic-response-models v0.2.0](https://github.com/Borealis-BioModeling/pharmacodynamic-response-models)
 * (07/21/2024) [pysb-pkpd v0.3.3](https://github.com/blakeaw/pysb-pkpd)
 * (07/19/2024) [pysb-units v0.4.0](https://github.com/Borealis-BioModeling/pysb-units)
