@@ -64,9 +64,9 @@ Visit [PUBLICATIONS](https://blakeaw.github.io/publications/) to view a full lis
 
 #### Software Releases
 
+* (09/06/2024) [Aurora PK/PD v0.2.0-alpha](https://github.com/Borealis-BioModeling/aurora-pkpd)
 * (08/16/2024) [GAlibarate v0.7.2](https://github.com/blakeaw/GAlibrate)
 * (08/08/2024) [LAMMPS Post v0.1.0](https://github.com/blakeaw/lammps-post)
-* (08/02/2024) [Aurora PK/PD v0.1.2-alpha](https://github.com/Borealis-BioModeling/aurora-pkpd)
 * (07/22/2024) [pharmacodynamic-response-models v0.2.0](https://github.com/Borealis-BioModeling/pharmacodynamic-response-models)
 * (07/21/2024) [pysb-pkpd v0.3.3](https://github.com/blakeaw/pysb-pkpd)
 * (07/19/2024) [pysb-units v0.4.0](https://github.com/Borealis-BioModeling/pysb-units)
