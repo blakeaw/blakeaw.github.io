@@ -11,6 +11,7 @@ tags: [pharmacology, drug discovery, radioligand therapy, cancer therapies]
 Recently, I've been learning about radioligand therapies (RLTs), a type of nuclear medicine used for targeted cancer therapy. With this post, I am compiling and sharing what I've learned as a resource for myself and others interested in this therapeutic technology. This post will be the first in a new series I'm calling <i>Exploring precision cancer therapies</i>. I plan to highlight and discuss various targeted and precision cancer therapy approaches.
 
 This post will be the first of two on RLTs. In it, we'll start with an overview of RLTs, covering what they are, how they work, what RLTs are currently available, and some of their challenges. Then, in the next post, we'll construct and explore a semi-mechanistic pharmacokinetics and receptor occupancy (PKRO) model of an RLT. 
+
 ______
 
 ## Contents
