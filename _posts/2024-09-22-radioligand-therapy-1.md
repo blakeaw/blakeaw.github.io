@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Exploring precision cancer therapies
-subtitle: Radioligand Therapy (RLT) Part 1 - An Overview
+title: Radioligand Therapy (RLT) Part 1 - An Overview
+subtitle: Exploring Precision Cancer Therapies
 tags: [pharmacology, drug discovery, radioligand therapy, cancer therapies]
 ---
 
 
 ![image](https://drive.google.com/thumbnail?id=1qFMQlQ_3nzAwdao9trsHSyMhFbNUpV9J&sz=w600)
 
-Recently, I've been learning about radioligand therapies (RLTs), a type of nuclear medicine used for targeted cancer therapy. With this post, I am compiling and sharing what I've learned as a resource for myself and others interested in this therapeutic technology. This post will be the first in a new series I'm calling <i>Exploring precision cancer therapies</i>. I plan to highlight and discuss various targeted and precision cancer therapy approaches.
+Recently, I've been learning about radioligand therapies (RLTs), a type of nuclear medicine used for targeted cancer therapy. With this post, I am compiling and sharing what I've learned as a resource for myself and others interested in this therapeutic technology. This post will be the first in a new series I'm calling <i>Exploring Precision Cancer Therapies</i>. I plan to highlight and discuss various targeted and precision cancer therapy approaches.
 
 This post will be the first of two on RLTs. In it, we'll start with an overview of RLTs, covering what they are, how they work, what RLTs are currently available, and some of their challenges. Then, in the next post, we'll construct and explore a semi-mechanistic pharmacokinetics and receptor occupancy (PKRO) model of an RLT. 
 
@@ -105,7 +105,7 @@ Schematics were created using [Inkscape](https://inkscape.org/), with GIMP [GIMP
 
 9. <div class="csl-entry">Drugs@FDA: FDA-Approved Drugs - Pluvicto. (n.d.). Retrieved September 20, 2024, from https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=215833</div>
 
-10. <div class="csl-entry"><i>de Savi, C. (n.d.). Pluvicto for Prostate Cancer - LinkedIn Post. Retrieved September 19, 2024, from https://www.linkedin.com/posts/chrisdesavi_medicine-pharmaceuticals-healthcare-activity-6984569645236162560-Ezz1/</div>
+10. <div class="csl-entry">de Savi, C. (n.d.). Pluvicto for Prostate Cancer - LinkedIn Post. Retrieved September 19, 2024, from https://www.linkedin.com/posts/chrisdesavi_medicine-pharmaceuticals-healthcare-activity-6984569645236162560-Ezz1/</div>
 
 11. <div class="csl-entry">Drugs@FDA: FDA-Approved Drugs - Lutathera. (n.d.). Retrieved September 20, 2024, from https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&ApplNo=208700</div>
 
