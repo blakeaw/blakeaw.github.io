@@ -53,6 +53,9 @@ Visit [PUBLICATIONS](https://blakeaw.github.io/publications/) to view a full lis
 
 #### Latest Blog Posts
 
+(09/22/2024)
+[Radioligand Therapy (RLT) Part 1 - An Overview | Exploring Precision Cancer Therapies series](https://blakeaw.github.io/2024-09-22-radioligand-therapy-1/)
+
 (08/21/2024)
 [Programming container recipes in Python with NVIDIA HPC Container Maker](https://blakeaw.github.io/2024-08-21-hpccm-intro/)
 
