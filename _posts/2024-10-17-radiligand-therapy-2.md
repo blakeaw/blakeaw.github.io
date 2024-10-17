@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Radioligand Therapy (RLT) Part 2 on Modeling how radionuclide half-life affects tumor targeting and off-target emissions using a semi-mechanistic PK/PD approach 
+title: Radioligand Therapy (RLT) Part 2 - Modeling how radionuclide half-life affects tumor targeting and off-target emissions using a semi-mechanistic PK/PD approach 
 subtitle: Exploring Precision Cancer Therapies
 tags: [pharmacology, drug discovery, radioligand therapy, cancer therapies, PKPD Modeling]
 ---
