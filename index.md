@@ -53,21 +53,19 @@ Visit [PUBLICATIONS](https://blakeaw.github.io/publications/) to view a full lis
 
 #### Latest Blog Posts
 
+(10/30/2024)
+[Radioligand Therapy (RLT) Part 3 - Modeling how clearance, binding, and uptake affect tumor targeting and off-target emissions using a semi-mechanistic PK/PD approach | Exploring Precision Cancer Therapies series](https://blakeaw.github.io/2024-10-30-radiligand-therapy-3/)
+
+(10/17/2024)
+[Radioligand Therapy (RLT) Part 2 - Modeling how radionuclide half-life affects tumor targeting and off-target emissions using a semi-mechanistic PK/PD approach | Exploring Precision Cancer Therapies series](https://blakeaw.github.io/2024-10-17-radiligand-therapy-2/)
+
 (09/22/2024)
 [Radioligand Therapy (RLT) Part 1 - An Overview | Exploring Precision Cancer Therapies series](https://blakeaw.github.io/2024-09-22-radioligand-therapy-1/)
 
-(08/21/2024)
-[Programming container recipes in Python with NVIDIA HPC Container Maker](https://blakeaw.github.io/2024-08-21-hpccm-intro/)
-
-(08/06/2024)
-[Embedding Julia in a Python-based Genetic Algorithm Optimizer using PyJulia](https://blakeaw.github.io/2024-08-06-galibrate-julia/)
-
-(07/29/2024)
-[Introducing Aurora PK/PD! An Open Web App for Pharmacological Modeling and Analysis](https://blakeaw.github.io/2024-07-29-aurora-pkpd-announcement/)
 
 #### Software Releases
 
-* (09/06/2024) [Aurora PK/PD v0.2.0-alpha](https://github.com/Borealis-BioModeling/aurora-pkpd)
+* (10/25/2024) [Aurora PK/PD v0.3.0-alpha](https://github.com/Borealis-BioModeling/aurora-pkpd)
 * (08/16/2024) [GAlibarate v0.7.2](https://github.com/blakeaw/GAlibrate)
 * (08/08/2024) [LAMMPS Post v0.1.0](https://github.com/blakeaw/lammps-post)
 * (07/22/2024) [pharmacodynamic-response-models v0.2.0](https://github.com/Borealis-BioModeling/pharmacodynamic-response-models)
