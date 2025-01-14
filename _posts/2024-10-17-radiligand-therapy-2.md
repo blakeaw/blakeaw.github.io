@@ -429,8 +429,10 @@ If you are so inclined, you can also be a financial supporter of my open-source 
 
 [Radioligand Therapy (RLT) Part 1 - An Overview](https://blakeaw.github.io/2024-09-22-radioligand-therapy-1/)
 
-[Modeling Drug Dynamics using Programmatic PK/PD Models in Python](https://blakeaw.github.io/2023-10-23-pysb-pkpd/)
+[Radioligand Therapy (RLT) Part 2 - Modeling how radionuclide half-life affects tumor targeting and off-target emissions using a semi-mechanistic PK/PD approach](https://blakeaw.github.io/2024-10-17-radiligand-therapy-2/)
 
-[Introducing Aurora PK/PD! An Open Web App for Pharmacological Modeling and Analysis](https://blakeaw.github.io/2024-07-29-aurora-pkpd-announcement/)
+[Radioligand Therapy (RLT) Part 3 - Modeling how clearance, binding, and uptake affect tumor targeting and off-target emissions using a semi-mechanistic PK/PD approach](https://blakeaw.github.io/2024-10-30-radioligand-therapy-3/)
+
+[Modeling Drug Dynamics using Programmatic PK/PD Models in Python](https://blakeaw.github.io/2023-10-23-pysb-pkpd/)
 
 ------
