@@ -42,25 +42,27 @@ Interested in my skills and experience - let's connect! I am currently exploring
 
 #### Academic Publications/Preprints
 
-0. **Journal Article** (2024) Oscar O. Ortega, Mustafa Ozen, <u>Blake A. Wilson</u>, James C. Pino, Michael W. Irvin, Geena V. Ildefonso, Shawn P. Garbett, and Carlos F. Lopez, Signal execution modes emerge in biochemical reaction networks calibrated to experimental data, iScience, In Press. <https://doi.org/10.1016/j.isci.2024.109989>
+0. **Journal Article** (2025) Chen Xie, Peiyuan Kang, Jonghae Youn, <u>Blake A. Wilson</u>, Tingting Zhang, Lokesh Basvarajappa, Qingxiao Wang, Moon Kim, Lei Li, Kenneth Hoyt, Jaona Harifidy Randrianalisoa, and Zhenpeng Qin, Mechanism of Amplified Photoacoustic Effect for Silica-Coated Spherical Gold Nanoparticles, Nano Lett. <https://doi.org/10.1021/acs.nanolett.4c05558>
+0. **Journal Article** (2024) Oscar O. Ortega, Mustafa Ozen, <u>Blake A. Wilson</u>, James C. Pino, Michael W. Irvin, Geena V. Ildefonso, Shawn P. Garbett, and Carlos F. Lopez, Signal execution modes emerge in biochemical reaction networks calibrated to experimental data, iScience. <https://doi.org/10.1016/j.isci.2024.109989>
 0. **Journal Article** (2024) Chen Xie, <u>Blake A. Wilson</u>, and Zhenpeng Qin, Regulating nanoscale directional heat transfer with Janus nanopartilces, Nanoscale Adv. <https://doi.org/10.1039/D3NA00781B>
-0. **Journal Article:** (2024) Hejian Xiong\*, <u>Blake A. Wilson</u>\*, Xiaoqian Ge\*, Xiaofei Gao, Qi Cai, Xueqi Xu, Robert Bachoo, and Zhenpeng Qin, Glioblastoma Margin as a Diffusion Barrier Revealed by Photoactivation of Plasmonic Nanovesicles, Nano Lett. 24 (5), 1570-1578. (\*=co-first authors) <https://doi.org/10.1021/acs.nanolett.3c04101>
-0. **Perspective:** (2023) Hejian Xiong, <u>Blake A. Wilson</u>, Paul A. Slesinger, Zhenpeng Qin, Optical uncaging and release for understanding neuropeptide transmission in the brain, ACS Chem. Neurosci., 14, 4, 516-523. (*Special Issue on 'Monitoring Molecules in Neuroscience 2023'*) <https://doi.org/10.1021/acschemneuro.2c00684>
-0. **Journal Article:** (2023) Xiaoqing Li, Qi Cai, <u>Blake A. Wilson</u>, Hanwen Fan, Harsh Dave, Monica Giannotta, Robert Bachoo, and Zhenpeng Qin, Calcium-Mediated Modulation of Blood-Brain Barrier Permeability by Laser Stimulation of Endothelial-Targeted Nanoparticles, Nanoscale, 15, 3387-3397. <https://doi.org/10.1039/D2NR05062E>
+0. **Journal Article:** (2024) Hejian Xiong\*, <u>Blake A. Wilson</u>\*, Xiaoqian Ge\*, Xiaofei Gao, Qi Cai, Xueqi Xu, Robert Bachoo, and Zhenpeng Qin, Glioblastoma Margin as a Diffusion Barrier Revealed by Photoactivation of Plasmonic Nanovesicles, Nano Lett. (\*=co-first authors) <https://doi.org/10.1021/acs.nanolett.3c04101>
 {: reversed="reversed"}
 
 Visit [PUBLICATIONS](https://blakeaw.github.io/publications/) to view a full list of publications.
 
 #### Latest Blog Posts
 
+(11/15/2024)
+[Antibody-Drug Conjugates (ADCs) Part 1 - What are ADCs? | Exploring Precision Cancer Therapies series](https://blakeaw.github.io/2024-11-15-antibody-drug-conjugates-1/)\
+<img src="https://drive.google.com/thumbnail?id=1atqOVspNLBvZZXbyiCxJy13LMY3-j5ug&sz=h600" alt="Graphical Abstract" width="200"/>
+
 (10/30/2024)
-[Radioligand Therapy (RLT) Part 3 - Modeling how clearance, binding, and uptake affect tumor targeting and off-target emissions using a semi-mechanistic PK/PD approach | Exploring Precision Cancer Therapies series](https://blakeaw.github.io/2024-10-30-radiligand-therapy-3/)
+[Radioligand Therapy (RLT) Part 3 - Modeling how clearance, binding, and uptake affect tumor targeting and off-target emissions using a semi-mechanistic PK/PD approach | Exploring Precision Cancer Therapies series](https://blakeaw.github.io/2024-10-30-radiligand-therapy-3/)\
+<img src="https://drive.google.com/thumbnail?id=1yzRfrbzJGI5s6NxvxmqoPq0rhxa6W72i&sz=w1200" alt="Graphical Abstract" width="200"/>
 
 (10/17/2024)
-[Radioligand Therapy (RLT) Part 2 - Modeling how radionuclide half-life affects tumor targeting and off-target emissions using a semi-mechanistic PK/PD approach | Exploring Precision Cancer Therapies series](https://blakeaw.github.io/2024-10-17-radiligand-therapy-2/)
-
-(09/22/2024)
-[Radioligand Therapy (RLT) Part 1 - An Overview | Exploring Precision Cancer Therapies series](https://blakeaw.github.io/2024-09-22-radioligand-therapy-1/)
+[Radioligand Therapy (RLT) Part 2 - Modeling how radionuclide half-life affects tumor targeting and off-target emissions using a semi-mechanistic PK/PD approach | Exploring Precision Cancer Therapies series](https://blakeaw.github.io/2024-10-17-radiligand-therapy-2/)\
+<img src="https://drive.google.com/thumbnail?id=1csETvK4s2kjEEXKL-RkYsKqv73xSGK9r&sz=w1200" alt="Graphical Abstract" width="200"/>
 
 
 #### Software Releases

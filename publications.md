@@ -21,10 +21,13 @@ subtitle: Academic publications.
 
 ### Peer-reviewed Publications
 
-0. Oscar O. Ortega, Mustafa Ozen, __Blake A. Wilson__, James C. Pino, Michael W. Irvin, Geena V. Ildefonso, Shawn P. Garbett, and Carlos F. Lopez (2024) Signal execution modes emerge in biochemical reaction networks calibrated to experimental data, iScience, In Press <https://doi.org/10.1016/j.isci.2024.109989>\
+0. Chen Xie, Peiyuan Kang, Jonghae Youn, __Blake A. Wilson__, Tingting Zhang, Lokesh Basvarajappa, Qingxiao Wang, Moon Kim, Lei Li, Kenneth Hoyt, Jaona Harifidy Randrianalisoa, and Zhenpeng Qin (2025) Mechanism of Amplified Photoacoustic Effect for Silica-Coated Spherical Gold Nanoparticles, Nano Lett., In Press. <https://doi.org/10.1021/acs.nanolett.4c05558>\
+<img src="https://pubs.acs.org/cms/10.1021/acs.nanolett.4c05558/asset/images/medium/nl4c05558_0005.gif" alt="Graphical Abstract" width="300"/>
+
+0. Oscar O. Ortega, Mustafa Ozen, __Blake A. Wilson__, James C. Pino, Michael W. Irvin, Geena V. Ildefonso, Shawn P. Garbett, and Carlos F. Lopez (2024) Signal execution modes emerge in biochemical reaction networks calibrated to experimental data, iScience, 27, 6, 109989. <https://doi.org/10.1016/j.isci.2024.109989>\
 <img src="https://www.cell.com/cms/attachment/ced49509-a29e-4632-a6bd-0719c988e59b/fx1.jpg" alt="Graphical Abstract" width="300"/>
 
-0. Chen Xie, __Blake Wilson__, and Zhenpeng Qin (2024) Regulating nanoscale directional heat transfer with Janus nanopartilces, Nanoscale Adv. <https://doi.org/10.1039/D3NA00781B>\
+0. Chen Xie, __Blake Wilson__, and Zhenpeng Qin (2024) Regulating nanoscale directional heat transfer with Janus nanopartilces, Nanoscale Adv., 6, 3082-3092. <https://doi.org/10.1039/D3NA00781B>\
 <img src="https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=D3NA00781B&imageInfo.ImageIdentifier.Year=2024" alt="Graphical Abstract" width="300"/>
 
 0. Hejian Xiong\*, __Blake A. Wilson__\*, Xiaoqian Ge\*, Xiaofei Gao, Qi Cai, Xueqi Xu, Robert Bachoo, and Zhenpeng Qin (2024) Glioblastoma Margin as a Diffusion Barrier Revealed by Photoactivation of Plasmonic Nanovesicles, Nano Lett. 24 (5), 1570-1578. (\*=co-first authors) <https://doi.org/10.1021/acs.nanolett.3c04101>\
