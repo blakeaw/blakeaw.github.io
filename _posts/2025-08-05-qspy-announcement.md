@@ -47,6 +47,7 @@ Here are the reasons I think you should try QSPy, followed by some of it's key f
 - **Built-in logging** - Model construction steps, metadata, and redacted provenance are logged to `.qspy/` folders, giving you a reproducible and inspectable trail for every model version.
 
 - **Functional monomer tagging** - QSPy introduces structured tags for classifying monomer components by biological role or modeling intent: e.g., `PROTEIN.RECEPTOR` and `DRUG.INHIBITOR`. These tags add additional expressiveness to model species and enable an additional way to filter monomer components for searches and analyses.
+
 ```python
 # Using @ operator
 Monomer('Drug', ['b']) @ DRUG.INHIBITOR
