@@ -31,7 +31,7 @@ Interested in my skills and experience - let's connect! I am currently exploring
 
 ### Quick Links
 
-[![Most Recent](https://img.shields.io/badge/Currently%20Unafilliated-2023--Present-blueviolet?style=social)](aboutme#professional-experience)
+[![Most Recent](https://img.shields.io/badge/Unafilliated-2023--Present-blueviolet?style=social)](aboutme#professional-experience)
 [![PhD](https://img.shields.io/badge/Ph.D.-Chemistry-blue?style=social)](aboutme#education)
 
 [![LearnMore](https://img.shields.io/badge/Learn%20More-About%20Me-lightgrey?style=for-the-badge)](aboutme.md) 
@@ -52,6 +52,10 @@ Visit [PUBLICATIONS](https://blakeaw.github.io/publications/) to view a full lis
 
 #### Latest Blog Posts
 
+(08/05/2025)
+[Introducing QSPy! An Open-Source framework for rule-based programmatic QSP modeling built on PySB](https://blakeaw.github.io/2025-08-05-qspy-announcement/)\
+<img src="https://drive.google.com/thumbnail?id=1vGDw3dRvl8zzTHsQuDJCoa06koOo4oo8&sz=h600" alt="It's Dangerous to Go Alone. Take QSPy" width="200"/>
+
 (11/15/2024)
 [Antibody-Drug Conjugates (ADCs) Part 1 - What are ADCs? | Exploring Precision Cancer Therapies series](https://blakeaw.github.io/2024-11-15-antibody-drug-conjugates-1/)\
 <img src="https://drive.google.com/thumbnail?id=1atqOVspNLBvZZXbyiCxJy13LMY3-j5ug&sz=h600" alt="Graphical Abstract" width="200"/>
@@ -67,10 +71,8 @@ Visit [PUBLICATIONS](https://blakeaw.github.io/publications/) to view a full lis
 
 #### Software Releases
 
-* (10/25/2024) [Aurora PK/PD v0.3.0-alpha](https://github.com/Borealis-BioModeling/aurora-pkpd)
-* (08/16/2024) [GAlibarate v0.7.2](https://github.com/blakeaw/GAlibrate)
-* (08/08/2024) [LAMMPS Post v0.1.0](https://github.com/blakeaw/lammps-post)
-* (07/22/2024) [pharmacodynamic-response-models v0.2.0](https://github.com/Borealis-BioModeling/pharmacodynamic-response-models)
-* (07/21/2024) [pysb-pkpd v0.3.3](https://github.com/blakeaw/pysb-pkpd)
-* (07/19/2024) [pysb-units v0.4.0](https://github.com/Borealis-BioModeling/pysb-units)
+* (07/29/2025) [qspy v0.1.1](https://github.com/Borealis-BioModeling/qspy) | Quantitative Systems Pharmacology in Python
+* (07/10/2025) [mergram v0.3.0](https://github.com/blakeaw/mergram) | Programmatically generate Mermaid diagrams and charts using Python.
+* (07/05/2025) [pysb-units v0.4.1](https://github.com/Borealis-BioModeling/pysb-units) | PySB add-on providing utilities to add units to models and perform dimensional analysis. 
+* (06/11/2025) [pysb-pkpd v0.5.3](https://github.com/blakeaw/pysb-pkpd) | PySB add-on providing domain-specific macros and models for empirical and mechanistic PK/PD modeling. 
 
