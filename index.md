@@ -71,8 +71,8 @@ Visit [PUBLICATIONS](https://blakeaw.github.io/publications/) to view a full lis
 
 #### Software Releases
 
-* (07/29/2025) [qspy v0.1.1](https://github.com/Borealis-BioModeling/qspy) | Quantitative Systems Pharmacology in Python
-* (07/10/2025) [mergram v0.3.0](https://github.com/blakeaw/mergram) | Programmatically generate Mermaid diagrams and charts using Python.
-* (07/05/2025) [pysb-units v0.4.1](https://github.com/Borealis-BioModeling/pysb-units) | PySB add-on providing utilities to add units to models and perform dimensional analysis. 
-* (06/11/2025) [pysb-pkpd v0.5.3](https://github.com/blakeaw/pysb-pkpd) | PySB add-on providing domain-specific macros and models for empirical and mechanistic PK/PD modeling. 
+* 07/29/2025 | [qspy](https://github.com/Borealis-BioModeling/qspy) | v0.1.1 | Quantitative Systems Pharmacology in Python
+* 07/10/2025 | [mergram](https://github.com/blakeaw/mergram) | v0.3.0 | Programmatically generate Mermaid diagrams and charts using Python.
+* 07/05/2025 | [pysb-units](https://github.com/Borealis-BioModeling/pysb-units) | v0.4.1 | PySB add-on providing utilities to add units to models and perform dimensional analysis. 
+* 06/11/2025 | [pysb-pkpd](https://github.com/blakeaw/pysb-pkpd) | v0.5.3 | PySB add-on providing domain-specific macros and models for empirical and mechanistic PK/PD modeling. 
 
